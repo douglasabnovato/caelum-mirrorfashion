@@ -36,19 +36,23 @@ figure{
     border: 1px	solid	#ccc;
     text-align:	center;
     padding: 15px;
-    margin: 30px;
 }
 
-#centro-distribuicao{ 
+figcaption{
+    font-style: italic;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+#centro-distribuicao{
     margin-left: auto;
     margin-right: auto;
     width: 550px;
 }
 
-figcaption{
-    font-style: italic;
-    padding: 15px;
-    margin: 30px;
+#familia-pelho{
+    float: left;
+    margin: 0 0 10px 10px;
 }
 
 .mapadapagina{
@@ -65,9 +69,4 @@ figcaption{
     margin-right: 30px;
     vertical-align: middle;
     width: 74px;
-}
-
-#familia-pelho{
-    float: left;
-    margin: 0 0 10px 10px;
 }
