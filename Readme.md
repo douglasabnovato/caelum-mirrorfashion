@@ -20,5 +20,7 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 10. Processo de desenvolvimento de uma tela: criar mockups com balsamiq e gimp
 11. Estrutura de uma página: header, main, destaques, footer
 12. HTML Semântico e a importância para o SEO
+13. Construíndo a página Home: .html e .css
+14. CSS Reset
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)
