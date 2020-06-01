@@ -1,6 +1,8 @@
 body{
     font-family: "Arial", "Helvetica", sans-serif;
+    border: red solid 1px; /*color style width*/
 }
+
 p{
     color: blue;
     background-color: yellow;
