@@ -17,7 +17,7 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 7. div e span
 8. seletor css: id [ # ], hierarquia
 9. fluxo do html: propriedade float, flutuação de elementos
-10. Processo de desenvolvimento de uma tela
+10. Processo de desenvolvimento de uma tela: criar mockups com balsamiq e gimp
 11. Estrutura de uma página: header, main, destaques, footer
 12. HTML Semântico e a importância para o SEO
 
