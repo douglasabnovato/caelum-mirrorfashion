@@ -4,6 +4,7 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 
 - [ ] Acesso ao design final em formato de imagem
 - [ ] Página web em HTML CSS.
+- [ ] Ferramentas: Google Chrome, VSCode, Git Bash
 
 #### Comentários durante o desenvolvimento do projeto
 

@@ -1,18 +1,20 @@
-body{
+body{ /* corpo da págin inteira */
     color: #333333;
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+
     margin-left: auto;
     margin-right: auto;
     width: 940px;
 }
 
-h1{
+h1{ /* título H1 */
     background-image: url(../img/sobre-background.jpg);
     padding: 10px;
 }
 
-h2{
-    border-bottom: 2px solid #333333; /*color style width*/
+h2{ /* Subtítulo H2 */
+    border-bottom: 2px solid #333333;
+
     margin-top: 30px;
 }
 
@@ -31,15 +33,17 @@ p{
     background-color: #fffcfc
 }
 
-figure{
+figure{/* box da figura */
     background-color: #F2EDED;
-    border: 1px	solid	#ccc;
+    border: 1px	solid #ccc;
     text-align:	center;
+
     padding: 15px;
 }
 
-figcaption{
+figcaption{/* legenda da figura */
     font-style: italic;
+    
     padding: 5px;
     margin-top: 10px;
 }
