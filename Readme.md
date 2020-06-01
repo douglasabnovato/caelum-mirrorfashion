@@ -10,5 +10,6 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 1. Boa prática de código - recuos, identação, comentários
 2. font-family, text-align, background-image, border(border, style, width)
 3. cores na web: composição RGB, notação hexadecimal
+4. listas em html
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)
