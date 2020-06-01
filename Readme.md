@@ -14,7 +14,7 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 5. espaçamento (padding - top, right, bottom, left), margem (margin - top, right, bottom, left), dimensões (height e width)
 6. links e bookmarks
 7. div e span
-8. seletor css: id [ # ]
-
+8. seletor css: id [ # ], hierarquia
+9. fluxo do html: propriedade float
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)
