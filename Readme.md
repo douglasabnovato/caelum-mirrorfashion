@@ -12,5 +12,9 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 3. cores na web: composição RGB, notação hexadecimal
 4. listas - ul, ol, dl
 5. espaçamento (padding - top, right, bottom, left), margem (margin - top, right, bottom, left), dimensões (height e width)
+6. links e bookmarks
+7. div e span
+8. seletor css: id [ # ]
+
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)
