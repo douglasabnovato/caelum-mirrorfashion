@@ -15,6 +15,6 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 6. links e bookmarks
 7. div e span
 8. seletor css: id [ # ], hierarquia
-9. fluxo do html: propriedade float
+9. fluxo do html: propriedade float, flutuação de elementos
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)
