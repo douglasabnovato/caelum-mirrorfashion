@@ -14,7 +14,11 @@ h2{
 h3{
     color: rgb(255, 200, 0);
     background-color: #F2EDED;
+}
 
+p{    
+    height: 300px;
+    width: 300px;
 }
 
 figure{
