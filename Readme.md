@@ -5,4 +5,8 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [ ] Acesso ao design final em formato de imagem
 - [ ] Página web em HTML CSS.
 
+#### Comentários durante o desenvolvimento do projeto
+1. Boa prática de código - recuos, identação, comentários
+
+
 .: Por Douglas A B Novato - @douglasabnovato
