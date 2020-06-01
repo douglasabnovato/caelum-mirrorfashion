@@ -33,30 +33,28 @@ p{
     background-color: #fffcfc
 }
 
-figure{/* box da figura */
+figure{/* box de todas as figuras */
     background-color: #F2EDED;
     border: 1px	solid #ccc;
     text-align:	center;
-
     padding: 15px;
 }
 
-figcaption{/* legenda da figura */
+figcaption{/* legenda de todas as figuras */
     font-style: italic;
-    
-    padding: 5px;
-    margin-top: 10px;
+    padding: 3px;
+    margin: 1px;
 }
 
-#centro-distribuicao{
+#centro-distribuicao{/* estilização dessa foto */
     margin-left: auto;
     margin-right: auto;
-    width: 550px;
+    width: 542px;
 }
 
-#familia-pelho{
-    float: left;
-    margin: 0 0 10px 10px;
+#familia-pelho{ /* estilização dessa foto */
+    float: right;
+    margin: 0 10px 20px 30px;
 }
 
 .mapadapagina{
