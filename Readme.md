@@ -25,6 +25,6 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 15. Elementos em block: h1 a h6, p, div
 16. Elementos em inline: de âncora a; de ênfase small, strong, em e de marcação de atributos span
 17. propriedade display: definir a estratégia de exibição para o elemento
-18. prática: reset e display
+18. prática: reset e display ... parou no 3.10 página 54(64/286)
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)
