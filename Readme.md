@@ -2,9 +2,9 @@
 
 O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design já pronto, assim como os textos e então, codificar o HTML e CSS necessário para o resultado final do site.
 
-- [ ] Acesso ao design final em formato de imagem
-- [ ] Página web em HTML CSS.
-- [ ] Ferramentas: Google Chrome, VSCode, Git Bash
+- [x] Acesso ao design final em formato de imagem
+- [x] Página web em HTML CSS.
+- [x] Ferramentas: Google Chrome, VSCode, Git Bash
 
 #### Comentários durante o desenvolvimento do projeto
 
@@ -25,6 +25,6 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 15. Elementos em block: h1 a h6, p, div
 16. Elementos em inline: de âncora a; de ênfase small, strong, em e de marcação de atributos span
 17. propriedade display: definir a estratégia de exibição para o elemento
-18. prática: reset e display ... parou no 3.10 página 54(64/286)
+18. prática: reset e display
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)
