@@ -56,7 +56,7 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [x] 3.10	Exercícios:	reset	e	display 54
 - [x] 3.11	Position:	static,	relative,	absolute 55
 - [x] 3.12	Exercícios:	posicionamento 58
-- [ ] 3.13	Para	saber	mais:	suporte	HTML5	no	Internet	Explorer	antigo - [ ] 58
+- [x] 3.13	Para	saber	mais:	suporte	HTML5	no	Internet	Explorer	antigo - [ ] 58
 - [ ] 3.14	Exercícios	opcionais 60
 - [ ] 4	Mais	HTML	e	CSS
 - [ ] 4.1	Analisando	o	miolo	da	página 61
