@@ -253,5 +253,6 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 16. Elementos em inline: de âncora a; de ênfase small, strong, em e de marcação de atributos span
 17. propriedade display: definir a estratégia de exibição para o elemento
 18. prática: reset e display
+19. coordenação: top, right, bottom, left. Position: static [ é o posicionamento padrão, permanece em seu local original no documeto ], relative [ obedece as coordenadas a partir da posição original do elemento ], absolute [ tem a referência em qualquer elemento que seja seu pai na estrutura do HTML, e que o modo de posicionamento seja diferente de static. Obedece as coordenadas de acordo com o tamanho total desse elemento pai. Importantes: quando não houver nenhum elemento pai na hierarquia do HTML que seja diferente de static, esse elemento que está sendo configurado vai aplicar as coordenadas tendo como referência a porção visível da página no navegador. ], fixed [ a referência é a porção visível do documento no navegador e mantém essa posição inclusive quando há rolagem de tela. ]
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)
