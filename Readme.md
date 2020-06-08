@@ -54,8 +54,8 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [x] 3.8	CSS	Reset 52
 - [x] 3.9	Block	vs	Inline 53
 - [x] 3.10	Exercícios:	reset	e	display 54
-- [ ] 3.11	Position:	static,	relative,	absolute 55
-- [ ] 3.12	Exercícios:	posicionamento 58
+- [x] 3.11	Position:	static,	relative,	absolute 55
+- [x] 3.12	Exercícios:	posicionamento 58
 - [ ] 3.13	Para	saber	mais:	suporte	HTML5	no	Internet	Explorer	antigo - [ ] 58
 - [ ] 3.14	Exercícios	opcionais 60
 - [ ] 4	Mais	HTML	e	CSS
@@ -253,6 +253,10 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 16. Elementos em inline: de âncora a; de ênfase small, strong, em e de marcação de atributos span
 17. propriedade display: definir a estratégia de exibição para o elemento
 18. prática: reset e display
-19. coordenação: top, right, bottom, left. Position: static [ é o posicionamento padrão, permanece em seu local original no documeto ], relative [ obedece as coordenadas a partir da posição original do elemento ], absolute [ tem a referência em qualquer elemento que seja seu pai na estrutura do HTML, e que o modo de posicionamento seja diferente de static. Obedece as coordenadas de acordo com o tamanho total desse elemento pai. Importantes: quando não houver nenhum elemento pai na hierarquia do HTML que seja diferente de static, esse elemento que está sendo configurado vai aplicar as coordenadas tendo como referência a porção visível da página no navegador. ], fixed [ a referência é a porção visível do documento no navegador e mantém essa posição inclusive quando há rolagem de tela. ]
+19. coordenação: top, right, bottom, left. Position: 
+static [ é o posicionamento padrão, permanece em seu local original no documeto, seguindo o fluxo da página, sendo renderizado logo após seus irmãos, não aceita posicionamento manual ]; 
+relative [ renderizado da mesma maneira que o static, aceita posicionamento manual, obedece as coordenadas a partir da posição original do elemento ]; 
+absolute [ tem a referência em qualquer elemento que seja seu pai na estrutura do HTML, e que o modo de posicionamento seja diferente de static. Obedece as coordenadas de acordo com o tamanho total desse elemento pai. Importantes: quando não houver nenhum elemento pai na hierarquia do HTML que seja diferente de static, esse elemento que está sendo configurado vai aplicar as coordenadas tendo como referência a porção visível da página no navegador. ]; 
+fixed [ a referência é a porção visível do documento no navegador e mantém essa posição inclusive quando há rolagem de tela, é obrigatório o posicionamento manual vertical e horizontal. ]
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)
