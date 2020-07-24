@@ -7,7 +7,7 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [x] Ferramentas: Google Chrome, VSCode, Git Bash
 
 #### Ementa
-
+     49/224
 - [x] 1	Sobre	o	curso	-	o	complexo	mundo	do	front-end
 - [x] 1.1	O	curso	e	os	exercícios 2
 - [x] 1.2	O	projeto	de	e-commerce 3

@@ -1,9 +1,12 @@
-body{
+body{/* corpo da págin inteira */
     color: #333333;
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    width: 940px;
 }
 
-/* o	 menu	 à	 direita	 e	 embaixo	 no	 header*/
+/* INÍCIO -  menu	 à	 direita	 e	 embaixo	 no	 header*/
 header {
     position: relative;
 }
@@ -29,7 +32,7 @@ header {
     /* sacola deve estar posicionada a direita e no topo */
 }
 
-/* o	 menu	 à	 direita	 e	 embaixo	 no	 header*/
+
 .menu-opcoes{
     position: absolute;
     bottom: 0;
@@ -48,3 +51,28 @@ header {
 .menu-opcoes a{
     color: #003366;
 } 
+
+/* FIM -  menu	 à	 direita	 e	 embaixo	 no	 header*/
+
+#topo-da-pagina  { /* título H1 */
+    background-image: url(../img/sobre-background.jpg);
+    padding: 10px;
+}
+
+.mapadapagina{/* mapa de site */
+    padding-left: 15px;
+}
+
+/* INÍCIO - rodapé */
+#rodape{
+    color: #777;
+    margin: 30px 0;
+    padding: 30px 0;    
+}
+
+#rodape img{
+    margin-right: 30px;
+    vertical-align: middle;
+    width: 74px;
+}
+/* FIM - rodapé */
