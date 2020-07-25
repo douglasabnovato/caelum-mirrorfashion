@@ -7,7 +7,7 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [x] Ferramentas: Google Chrome, VSCode, Git Bash
 
 #### Ementa
-     49/224
+    49/224
 - [x] 1	Sobre	o	curso	-	o	complexo	mundo	do	front-end
 - [x] 1.1	O	curso	e	os	exercícios 2
 - [x] 1.2	O	projeto	de	e-commerce 3
@@ -279,6 +279,7 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 
 20. Partes da página: cabeçalho; área central[ bloco principal(menu de navegação e o banner de destaque ), bloco de painéis (destaques de produtos), área de navegação ( formulário de busca de produtos ) ]; rodapé.
 
+21. Formulário HTML:
 
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)
