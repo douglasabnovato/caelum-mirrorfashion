@@ -279,7 +279,8 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 
 20. Partes da página: cabeçalho; área central[ bloco principal(menu de navegação e o banner de destaque ), bloco de painéis (destaques de produtos), área de navegação ( formulário de busca de produtos ) ]; rodapé.
 
-21. Formulário HTML:
+21. Formulário HTML: form, input, button.
 
+22. Posicionamento: float e clear. Nosso layout: menu abaixo da busca e alinhado a esquerda com imagem principal ao lado de ambos. Usar position no menu quebraria o layout. A propriedade float à busca e ao menu para que ambos fiquem a esquerda, fazendo a imagem central os contorne. Vamos aplicar primeiro na página `about.html`.
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)
