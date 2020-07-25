@@ -6,6 +6,26 @@ body{/* corpo da págin inteira */
     width: 940px;
 }
 
+h2#titulo-produto{ /* Subtítulo H2 */
+    border-bottom: 2px solid #333333;
+    margin-top: 30px;
+}
+
+p{    
+    padding: 0 45px;
+    margin: 30px;
+    text-indent: 15px;
+    height: auto;
+    width: auto;
+    text-align: left;
+    background-color: #fffcfc
+}
+
+h3{
+    color: rgb(255, 200, 0);
+    background-color: #F2EDED;
+}
+
 /* INÍCIO -  menu	 à	 direita	 e	 embaixo	 no	 header*/
 header {
     position: relative;
