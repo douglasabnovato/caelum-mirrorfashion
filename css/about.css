@@ -86,10 +86,12 @@ header {
 
 .menu-opcoes ul{
     font-size: 15px;
+    
 }
 
 .menu-opcoes a{
     color: #003366;
+    text-decoration: none;
 } 
 /* FIM -  menu	 à	 direita	 e	 embaixo	 no	 header*/
 

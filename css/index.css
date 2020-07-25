@@ -69,15 +69,17 @@ header {
 
 .menu-opcoes ul li	{
     display:	inline;
-    margin-left: 20px;
+    margin-left: 20px;    
 }
 
 .menu-opcoes ul{
     font-size: 15px;
+    text-decoration: none;
 }
 
 .menu-opcoes a{
     color: #003366;
+    text-decoration: none;
 } 
 
 /* FIM -  menu	 à	 direita	 e	 embaixo	 no	 header*/

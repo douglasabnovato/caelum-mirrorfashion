@@ -58,13 +58,13 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [x] 3.12	Exercícios:	posicionamento 58
 - [x] 3.13	Para	saber	mais:	suporte	HTML5	no	Internet	Explorer	antigo - [ ] 58
 - [x] 3.14	Exercícios	opcionais 60
-- [ ] 4	Mais	HTML	e	CSS
-- [ ] 4.1	Analisando	o	miolo	da	página 61
-- [ ] 4.2	Formulários 61
-- [ ] 4.3	Posicionamento	com	float	e	clear 62
-- [ ] 4.4	Decoração	de	texto	com	CSS 63
-- [ ] 4.5	Cascata	e	herança	no	CSS 64
-- [ ] 4.6	Para	saber	mais:	o	valor	inherit 65
+- [x] 4	Mais	HTML	e	CSS
+- [x] 4.1	Analisando	o	miolo	da	página 61
+- [x] 4.2	Formulários 61
+- [x] 4.3	Posicionamento	com	float	e	clear 62
+- [x] 4.4	Decoração	de	texto	com	CSS 63
+- [x] 4.5	Cascata	e	herança	no	CSS 64
+- [x] 4.6	Para	saber	mais:	o	valor	inherit 65
 - [ ] 4.7	Exercícios:	menu	e	destaque 66
 - [ ] 4.8	Display	inline-block 69
 - [ ] 4.9	Exercícios:	painéis	flutuantes 70
@@ -303,6 +303,33 @@ Clear = "limpe o fluxo do documento ao meu lado.", podendo ser left (impede que 
 .menu-departamentos	{
     text-transform:	uppercase;
 }
+````
+````css
+.item-menu	{
+    text-decoration: none;
+}
+````
+24. Inherit:  indica para o elemento filho que ele deve utilizar o mesmo valor presente no
+elemento pai.
+
+````html
+    <div>
+        <img src="box-model.png" alt="box	model">
+    </div>
+````
+
+````css
+    div	{
+        border: 2px	solid;
+        border-color:	red;
+        width: 30px;
+        height: 30px;
+    }
+
+    img	{
+        width:	inherit;
+        height:	inherit;
+    }
 ````
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)
