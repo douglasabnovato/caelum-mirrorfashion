@@ -57,7 +57,7 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [x] 3.11	Position:	static,	relative,	absolute 55
 - [x] 3.12	Exercícios:	posicionamento 58
 - [x] 3.13	Para	saber	mais:	suporte	HTML5	no	Internet	Explorer	antigo - [ ] 58
-- [ ] 3.14	Exercícios	opcionais 60
+- [x] 3.14	Exercícios	opcionais 60
 - [ ] 4	Mais	HTML	e	CSS
 - [ ] 4.1	Analisando	o	miolo	da	página 61
 - [ ] 4.2	Formulários 61
@@ -276,6 +276,8 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - relative [ renderizado da mesma maneira que o static, aceita posicionamento manual, obedece as coordenadas a partir da posição original do elemento ]; 
 - absolute [ tem a referência em qualquer elemento que seja seu pai na estrutura do HTML, e que o modo de posicionamento seja diferente de static. Obedece as coordenadas de acordo com o tamanho total desse elemento pai. Importantes: quando não houver nenhum elemento pai na hierarquia do HTML que seja diferente de static, esse elemento que está sendo configurado vai aplicar as coordenadas tendo como referência a porção visível da página no navegador. ]; 
 - fixed [ a referência é a porção visível do documento no navegador e mantém essa posição inclusive quando há rolagem de tela, é obrigatório o posicionamento manual vertical e horizontal. ]
+
+20. Partes da página: cabeçalho; área central[ bloco principal(menu de navegação e o banner de destaque ), bloco de painéis (destaques de produtos), área de navegação ( formulário de busca de produtos ) ]; rodapé.
 
 
 
