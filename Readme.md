@@ -331,5 +331,6 @@ elemento pai.
         height:	inherit;
     }
 ````
+25. DESAFIO: criar um elemento destaque	e, dentro dele, uma section para a busca, outra para	o menu e outra para o banner.
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)
