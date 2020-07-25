@@ -11,7 +11,17 @@ h2#titulo-produto{ /* Subtítulo H2 */
     margin-top: 30px;
 }
 
-p{    
+p.textos{    
+    padding: 0 45px;
+    margin: 30px;
+    text-indent: 15px;
+    height: auto;
+    width: auto;
+    text-align: left;
+    background-color: #fffcfc
+}
+
+div.textos-bloco{
     padding: 0 45px;
     margin: 30px;
     text-indent: 15px;
@@ -22,7 +32,6 @@ p{
 }
 
 h3{
-    color: rgb(255, 200, 0);
     background-color: #F2EDED;
 }
 
@@ -41,8 +50,7 @@ header {
     background-repeat: no-repeat;
     background-position: top right;
     font-size: 14px;
-    padding-right: 35px;
-    padding-top: 8px;
+    padding-right: 30px;
     text-align: right;
     width: 140px;
     /* sacola deve estar posicionada a direita e no topo */
@@ -50,7 +58,7 @@ header {
     top: 0;
     right: 0;
     /* sacola deve estar posicionada a direita e no topo */
-}
+} 
 
 
 .menu-opcoes{
@@ -96,3 +104,21 @@ header {
     width: 74px;
 }
 /* FIM - rodapé */
+
+#produto-1{ /* estilização dessa foto */
+    
+    margin: 0 10px 20px 30px;
+}
+
+figure{/* box de todas as figuras */
+    background-color: #F2EDED;
+    border: 1px	solid #ccc;
+    text-align:	center;
+    padding: 15px;
+}
+
+figcaption{/* legenda de todas as figuras */
+    font-style: italic;
+    padding: 3px;
+    margin: 1px;
+}
