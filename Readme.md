@@ -281,6 +281,28 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 
 21. Formulário HTML: form, input, button.
 
-22. Posicionamento: float e clear. Nosso layout: menu abaixo da busca e alinhado a esquerda com imagem principal ao lado de ambos. Usar position no menu quebraria o layout. A propriedade float e a clear. Vamos aplicar primeiro na página `about.html`. Clear = "limpe o fluxo do documento ao meu lado.", podendo ser left (impede que outros elementos flutuem a esquerda do nosso elemento), right (impede que outros elementos flutuem a direita do nosso elemento), both (impede que outros elementos flutuem a esquerda e direita do nosso elemento).
+22. Posicionamento: float e clear. Nosso layout: menu abaixo da busca e alinhado a esquerda com imagem principal ao lado de ambos. Usar position no menu quebraria o layout. A propriedade float e a clear. Vamos aplicar primeiro na página `about.html`. <br/>
+
+Clear = "limpe o fluxo do documento ao meu lado.", podendo ser left (impede que outros elementos flutuem a esquerda do nosso elemento), right (impede que outros elementos flutuem a direita do nosso elemento), both (impede que outros elementos flutuem a esquerda e direita do nosso elemento). 
+
+````css
+.busca,
+.menu-departamentos{
+    float: left;
+}
+````
+
+````css
+.menu-departamentos{
+    clear: left;
+}
+````
+
+23. Decoração de texto com css : text-transform : uppercase, lowercase, capitalize
+````css
+.menu-departamentos	{
+    text-transform:	uppercase;
+}
+````
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)
