@@ -7,7 +7,9 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [x] Ferramentas: Google Chrome, VSCode, Git Bash
 
 #### Ementa
-    49/224
+
+- CAPÍTULO UM
+
 - [x] 1	Sobre	o	curso	-	o	complexo	mundo	do	front-end
 - [x] 1.1	O	curso	e	os	exercícios 2
 - [x] 1.2	O	projeto	de	e-commerce 3
@@ -15,6 +17,9 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [x] 1.4	Tirando	dúvidas	online	no	GUJ 3
 - [x] 1.5	Bibliografia 4
 - [x] 1.6	Para	onde	ir	depois? 4
+
+- CAPÍTULO DOIS
+
 - [x] 2	Introdução	a	HTML	e	CSS
 - [x] 2.1	Exibindo	informações	na	Web 6
 - [x] 2.2	Sintaxe	do	HTML 9
@@ -43,6 +48,9 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [x] 2.25	Fluxo	do	documento	e	float 37
 - [x] 2.26	Exercícios:	seletores	CSS	e	flutuação	de	elementos 38
 - [x] 2.27	O	futuro	e	presente	da	Web	com	o	HTML5 40
+
+- CAPÍTULO TRÊS
+
 - [x] 3	HTML	semântico	e	posicionamento	no	CSS
 - [x] 3.1	O	processo	de	desenvolvimento	de	uma	tela 41
 - [x] 3.2	O	projeto	Mirror	Fashion 43
@@ -58,6 +66,9 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [x] 3.12	Exercícios:	posicionamento 58
 - [x] 3.13	Para	saber	mais:	suporte	HTML5	no	Internet	Explorer	antigo - [ ] 58
 - [x] 3.14	Exercícios	opcionais 60
+
+- CAPÍTULO QUATRO 
+
 - [x] 4	Mais	HTML	e	CSS
 - [x] 4.1	Analisando	o	miolo	da	página 61
 - [x] 4.2	Formulários 61
@@ -65,8 +76,8 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [x] 4.4	Decoração	de	texto	com	CSS 63
 - [x] 4.5	Cascata	e	herança	no	CSS 64
 - [x] 4.6	Para	saber	mais:	o	valor	inherit 65
-- [ ] 4.7	Exercícios:	menu	e	destaque 66
-- [ ] 4.8	Display	inline-block 69
+- [x] 4.7	Exercícios:	menu	e	destaque 66
+- [x] 4.8	Display	inline-block 69
 - [ ] 4.9	Exercícios:	painéis	flutuantes 70
 - [ ] 4.10	Seletores	de	atributo	do	CSS3 73
 - [ ] 4.11	Rodapé 74
@@ -74,6 +85,9 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [ ] 4.13	Estilização	e	posicionamento	do	rodapé 75
 - [ ] 4.14	Exercícios:	rodapé 77
 - [ ] 4.15	Exercícios	opcionais 79
+
+- CAPÍTULO CINCO
+
 - [ ] 5	CSS	Avançado
 - [ ] 5.1	Seletores	avançados 80
 - [ ] 5.2	Pseudo-classes 83
@@ -92,6 +106,9 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [ ] 5.15	CSS3	Transforms 104
 - [ ] 5.16	Exercícios:	CSS3	transform	e	transition 106
 - [ ] 5.17	Para	saber	mais:	especificidade	de	seletores	CSS 109
+
+- CAPÍTULO SEIS
+
 - [ ] 6	Web	para	dispositivos	móveis
 - [ ] 6.1	Site	mobile	ou	mesmo	site? 113
 - [ ] 6.2	CSS	media	types 116
@@ -101,6 +118,9 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [ ] 6.6	Responsive	Web	Design 124
 - [ ] 6.7	Mobile-first 124
 - [ ] 6.8	Exercícios	opcionais:	versão	tablet 125
+
+- CAPÍTULO SETE 
+
 - [ ] 7	Progressive	enhancement	e	mobile-first
 - [ ] 7.1	Formulário	de	compra 127
 - [ ] 7.2	Exercícios:	formulário	da	página	de	produto 130
@@ -116,6 +136,9 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [ ] 7.12	Tabelas 144
 - [ ] 7.13	Exercícios:	detalhes 145
 - [ ] 7.14	Exercícios	opcionais:	fundo 148
+
+- CAPÍTULO OITO 
+
 - [ ] 8	Bootstrap	e	formulários	HTML5
 - [ ] 8.1	Bootstrap	e	frameworks	de	CSS 149
 - [ ] 8.2	Estilo	e	componentes	base 150
@@ -133,6 +156,9 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [ ] 8.14	Para	saber	mais:	componentes	JS	do	Bootstrap 175
 - [ ] 8.15	Exercícios	opcionais:	navbar	e	JavaScript 175
 - [ ] 8.16	Para	saber	mais:	outros	frameworks	CSS 177
+
+- CAPÍTULO NOVE 
+
 - [ ] 9	JavaScript	e	interatividade	na	Web
 - [ ] 9.1	Porque	usamos	JavaScript? 179
 - [ ] 9.2	Um	pouquinho	da	história	do	JavaScript 180
@@ -154,6 +180,9 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [ ] 9.18	Exercícios	opcionais:	banner	rotativo 198
 - [ ] 9.19	Para	saber	mais:	vários	callbacks	no	mesmo	elemento 200
 - [ ] 9.20	Para	saber	mais:	controlando	as	validações	HTML5 201
+
+- CAPÍTULO DEZ 
+
 - [ ] 10	jQuery
 - [ ] 10.1	jQuery	-	A	função	$ 203
 - [ ] 10.2	jQuery	Selectors 204
@@ -164,6 +193,9 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [ ] 10.7	Exercícios:	jQuery	na	home 208
 - [ ] 10.8	Plugins	jQuery 211
 - [ ] 10.9	Exercícios:	plugin 211
+
+- CAPÍTULO ONZE 
+
 - [ ] 11	Integrações	com	serviços	Web
 - [ ] 11.1	Web	2.0	e	integrações 213
 - [ ] 11.2	iframes 213
@@ -173,6 +205,9 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [ ] 11.6	Fontes	customizadas	com	@font-face 215
 - [ ] 11.7	Serviços	de	web	fonts 216
 - [ ] 11.8	Exercícios:	Google	Web	Fonts 216
+
+- CAPÍTULO DOZE 
+
 - [ ] 12	Apêndice	-	Otimizações	de	front-end
 - [ ] 12.1	HTML	e	HTTP	-	Como	funciona	a	World	Wide	Web? 219
 - [ ] 12.2	Princípios	de	programação	distribuída 221
@@ -184,6 +219,9 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [ ] 12.8	Image	Sprites 228
 - [ ] 12.9	Para	saber	mais 231
 - [ ] 12.10	Exercícios:	otimizações	Web 231
+
+- CAPÍTULO TREZE 
+
 - [ ] 13	Apêndice	-	LESS
 - [ ] 13.1	Variáveis 233
 - [ ] 13.2	Contas 234
@@ -193,6 +231,9 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [ ] 13.6	Executando	o	LESS 237
 - [ ] 13.7	Para	saber	mais:	recursos	avançados	e	alternativas 237
 - [ ] 13.8	Exercícios:	LESS 238
+
+- CAPÍTULO QUATORZE 
+
 - [ ] 14	Apêndice	-	Introdução	a	PHP
 - [ ] 14.1	Libertando	o	HTML	de	suas	limitações 242
 - [ ] 14.2	Como	funciona	um	servidor	HTTP 243
@@ -203,11 +244,17 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [ ] 14.7	Exercícios:	include 247
 - [ ] 14.8	Para	saber	mais:	ainda	mais	flexibilidade	com	variáveis 249
 - [ ] 14.9	Exercícios	opcionais:	variáveis	em	PHP 249
+
+- CAPÍTULO QUINZE 
+
 - [ ] 15	Apêndice	-	PHP:	parâmetros	e	páginas	dinâmicas
 - [ ] 15.1	Submissão	do	formulário 251
 - [ ] 15.2	Parâmetros	com	PHP 252
 - [ ] 15.3	Listas	de	definição	no	HTML 253
 - [ ] 15.4	Exercícios:	checkout	da	compra 253
+
+- CAPÍTULO DEZESSEIS 
+
 - [ ] 16	Apêndice	-	PHP:	Banco	de	dados	e	SQL
 - [ ] 16.1	MySQL	e	phpMyAdmin 257
 - [ ] 16.2	Para	saber	mais:	instalação	do	MySQL	em	casa 258
@@ -219,6 +266,9 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [ ] 16.8	Ordenação	dos	resultados 263
 - [ ] 16.9	Exercícios:	mais	buscas	com	PHP 263
 - [ ] 16.10	Exercícios	opcionais 265
+
+- CAPÍTULO DEZESSETE 
+
 - [ ] 17	Apêndice	-	Subindo	sua	aplicação	no	cloud
 - [ ] 17.1	Como	escolher	um	provedor 266
 - [ ] 17.2	O	Jelastic	Cloud	Locaweb 267
@@ -226,12 +276,17 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [ ] 17.4	Importando	dados	no	MySQL 268
 - [ ] 17.5	Preparando	o	projeto 269
 - [ ] 17.6	Enviando	o	projeto	e	inicializando	servidor 270
+
+- CAPÍTULO DEZOITO 
+
 - [ ] 18	Apêndice	-	Mais	integrações	com	serviços	Web
 - [ ] 18.1	Botão	de	curtir	do	Facebook 272
 - [ ] 18.2	Exercícios:	Facebook 273
 - [ ] 18.3	Para	saber	mais:	Twitter 274
 - [ ] 18.4	Para	saber	mais:	Google+ 274
 - [ ] 18.5	Exercícios	opcionais:	Twitter	e	Google+ 275
+
+- Considerações finais. 
 
 #### Comentários durante o desenvolvimento do projeto
 
