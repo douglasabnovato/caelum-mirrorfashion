@@ -390,4 +390,5 @@ elemento pai.
 
 26. DESAFIO: um	fundo cinza nas caixas de busca e no menu de departamentos. O texto deve estar	 em negrito e apresentado em maiúsculas. Também haverá algumas regras de tamanhos e margens.
 
-.: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)
+.: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)<br/>
+. De [Caelum - Apostilas - Web](https://www.caelum.com.br/apostilas)
