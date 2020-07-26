@@ -333,4 +333,6 @@ elemento pai.
 ````
 25. DESAFIO: criar um elemento destaque	e, dentro dele, uma section para a busca, outra para	o menu e outra para o banner.
 
+26. DESAFIO: um	fundo cinza nas caixas de busca e no menu de departamentos. O texto deve estar	 em negrito e apresentado em maiúsculas. Também haverá algumas regras de tamanhos e margens.
+
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)
