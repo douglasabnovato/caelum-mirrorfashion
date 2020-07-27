@@ -1,4 +1,6 @@
-body{ /* corpo da págin inteira */
+/* INÍCIO - Elementos gerais */
+
+body{ 
     color: #333333;
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     margin-left: auto;
@@ -14,41 +16,10 @@ h2{ /* Subtítulo H2 */
 h3{
     background-color: #F2EDED;
 }
+/* FIM - Elementos gerais */
 
-p.textos{    
-    padding: 0 45px;
-    margin: 30px;
-    text-indent: 15px;
-    height: auto;
-    width: auto;
-    text-align: left;
-    background-color: #fffcfc
-}
+/* INÍCIO - Header */
 
-div.textos-bloco{
-    padding: 0 45px;
-    margin: 30px;
-    text-indent: 15px;
-    height: auto;
-    width: auto;
-    text-align: left;
-    background-color: #fffcfc
-}
-
-figure{/* box de todas as figuras */
-    background-color: #F2EDED;
-    border: 1px	solid #ccc;
-    text-align:	center;
-    padding: 15px;
-}
-
-figcaption{/* legenda de todas as figuras */
-    font-style: italic;
-    padding: 3px;
-    margin: 1px;
-}
-
-/* INÍCIO - menu	 à	 direita	 e	 embaixo	 no	 header*/
 header {
     position: relative;
 }
@@ -93,7 +64,10 @@ header {
     color: #003366;
     text-decoration: none;
 } 
-/* FIM -  menu	 à	 direita	 e	 embaixo	 no	 header*/
+
+/* FIM - Header */
+
+/* INÍCIO - Introdução */
 
 #topo-da-pagina  { /* título H1 */
     background-image: url(../img/sobre-background.jpg);
@@ -106,14 +80,60 @@ header {
     width: 542px;
 }
 
+p.textos{    
+    padding: 0 45px;
+    margin: 30px;
+    text-indent: 15px;
+    height: auto;
+    width: auto;
+    text-align: left;
+    background-color: #fffcfc
+}
+/* FIM - Introdução */
+
+/* INÍCIO - História */
+
 #familia-pelho{ /* estilização dessa foto */
     float: right;
     margin: 0 10px 20px 30px;
 }
 
+figure{/* box de todas as figuras */
+    background-color: #F2EDED;
+    border: 1px	solid #ccc;
+    text-align:	center;
+    padding: 15px;
+}
+
+figcaption{/* legenda de todas as figuras */
+    font-style: italic;
+    padding: 3px;
+    margin: 1px;
+} 
+
+/* FIM - História */
+
+/* INÍCIO - Diferenciais */
+
+div.textos-bloco{
+    padding: 0 45px;
+    margin: 30px;
+    text-indent: 15px;
+    height: auto;
+    width: auto;
+    text-align: left;
+    background-color: #fffcfc
+}
+
+/* FIM - Diferenciais */
+
+/* INÍCIO - mapa da pagina */
+
 .mapadapagina{/* mapa de site */
     padding-left: 15px;
 }
+
+/* FIM - mapa da pagina */
 
 /* INÍCIO - rodapé */
 #rodape{
@@ -127,8 +147,4 @@ header {
     vertical-align: middle;
     width: 74px;
 }
-/* FIM - rodapé */
-
-/* Início - Menu de departamento */
-
-/* Fim - Menu de departamento */
+/* FIM - rodapé */ 
