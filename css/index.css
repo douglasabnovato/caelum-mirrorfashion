@@ -1,9 +1,29 @@
-body{/* corpo da págin inteira */
+/* INÍCIO - Elementos gerais */
+
+body{
     color: #333333;
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     margin-left: auto;
     margin-right: auto;
     width: 940px;
+}
+
+h3{
+    background-color: #F2EDED;
+}
+
+/* FIM - Elementos gerais */
+
+/* INÍCIO - Container */
+
+div.textos-bloco{
+    padding: 0 45px;
+    margin: 30px;
+    text-indent: 15px;
+    height: auto;
+    width: auto;
+    text-align: left;
+    background-color: #fffcfc
 }
 
 h2#titulo-produto{ /* Subtítulo H2 */
@@ -21,26 +41,15 @@ p.textos{
     background-color: #fffcfc
 }
 
-div.textos-bloco{
-    padding: 0 45px;
-    margin: 30px;
-    text-indent: 15px;
-    height: auto;
-    width: auto;
-    text-align: left;
-    background-color: #fffcfc
-}
+/* FIM - Container */
 
-h3{
-    background-color: #F2EDED;
-}
+/* INÍCIO - Header */
 
-/* INÍCIO -  menu	 à	 direita	 e	 embaixo	 no	 header*/
 header {
     position: relative;
 }
 
-.container	{
+.container-header	{
     margin: 0	auto;
     width: 940px;
 }
@@ -80,7 +89,8 @@ header {
     text-decoration: none;
 } 
 
-/* FIM -  menu	 à	 direita	 e	 embaixo	 no	 header*/
+/* FIM - Header */
+ 
 
 #topo-da-pagina  { /* título H1 */
     background-image: url(../img/sobre-background.jpg);
