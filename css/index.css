@@ -81,6 +81,7 @@ header {
 
     margin-right: 10px;
     width: 230px; 
+
     float:	left;      
 }
 
@@ -103,23 +104,22 @@ header {
 
     margin-right: 10px;
     width: 230px; 
-    float:	left;      
+
+    float:	left; 
+    clear:	left; 
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;   
 } 
 
 .menu-departamentos h2 {
     margin: 10px;
 }   
 
-.menu-departamentos	{
-    clear:	left;
-    margin-top: 10px;
-    padding-bottom: 10px;
-}
-
 .menu-departamentos li {
     background-color: white;
     margin-bottom: 1px;
-    padding: 5px 5px 5px 5px; 
+    padding: 3px 3px 3px 3px; 
     list-style-type: none; 
 }
 
@@ -131,11 +131,12 @@ header {
 
 /*INÍCIO - banner-destaque */
 .banner-destaque{
-
+    margin-top: 10px;
 }
 
 #foto-banner-destaque-home{
-    width: 370px;
+    width: 370px; 
+    margin-left: 240px;
 } 
 /*FIM - banner-destaque */
 
