@@ -14,35 +14,6 @@ h3{
 
 /* FIM - Elementos gerais */
 
-/* INÍCIO - Container */
-
-div.textos-bloco{
-    padding: 0 45px;
-    margin: 30px;
-    text-indent: 15px;
-    height: auto;
-    width: auto;
-    text-align: left;
-    background-color: #fffcfc
-}
-
-h2#titulo-produto{ /* Subtítulo H2 */
-    border-bottom: 2px solid #333333;
-    margin-top: 30px;
-}
-
-p.textos{    
-    padding: 0 45px;
-    margin: 30px;
-    text-indent: 15px;
-    height: auto;
-    width: auto;
-    text-align: left;
-    background-color: #fffcfc
-}
-
-/* FIM - Container */
-
 /* INÍCIO - Header */
 
 header {
@@ -90,56 +61,20 @@ header {
 } 
 
 /* FIM - Header */
- 
 
-#topo-da-pagina  { /* título H1 */
-    background-image: url(../img/sobre-background.jpg);
-    padding: 10px;
+/* INÍCIO - Container */
+
+.container	{ 
+    margin-top: 10px;
 }
-
-.mapadapagina{/* mapa de site */
-    padding-left: 15px;
-}
-
-/* INÍCIO - rodapé */
-#rodape{
-    color: #777;
-    margin: 30px 0;
-    padding: 30px 0;    
-}
-
-#rodape img{
-    margin-right: 30px;
-    vertical-align: middle;
-    width: 74px;
-}
-/* FIM - rodapé */
-
-#produto-1{ /* estilização dessa foto */    
-    margin: 0 10px 20px 30px;
-}
-
-figure#produto-1{/* box de todas as figuras */
-    background-color: #F2EDED;
-    border: 1px	solid #ccc;
-    text-align:	center;
-    padding: 15px;
-}
-
-figure#produto-1    figcaption{/* legenda de todas as figuras */
-    font-style: italic;
-    padding: 3px;
-    margin: 1px;
-}
-
-/* INÍCIO - menu departamento e busca */
 
 .destaque	{
     margin-top: 10px;
 }
 
-.busca,
-.menu-departamentos {
+/* INÍCIO - Busca de Produtos */ 
+
+.busca{
     background-color: #dcdcdc;
     font-weight: bold;
     text-transform: uppercase; 
@@ -148,9 +83,29 @@ figure#produto-1    figcaption{/* legenda de todas as figuras */
     width: 230px; 
     float:	left;      
 }
-    
+
 .busca h2,
-.busca form,
+.busca form {
+    margin: 10px;
+} 
+
+.busca input[type=search] {
+    width: 145px;
+}
+
+/* FIM - Busca de Produtos */
+
+/* INÍCIO - menu-departamentos */
+.menu-departamentos {
+    background-color: #dcdcdc;
+    font-weight: bold;
+    text-transform: uppercase; 
+
+    margin-right: 10px;
+    width: 230px; 
+    float:	left;      
+} 
+
 .menu-departamentos h2 {
     margin: 10px;
 }   
@@ -172,13 +127,87 @@ figure#produto-1    figcaption{/* legenda de todas as figuras */
     color: #333333;
     text-decoration: none;
 }
+/* FIM - menu-departamentos */
 
-.busca input[type=search] {
-    width: 145px;
+/*INÍCIO - banner-destaque */
+.banner-destaque{
+
 }
 
 #foto-banner-destaque-home{
     width: 370px;
+} 
+/*FIM - banner-destaque */
+
+/* INÍCIO - produto-destaque */
+
+#topo-da-pagina  { /* título H1 */
+    background-image: url(../img/sobre-background.jpg);
+    padding: 10px;
+}
+
+div.textos-bloco{
+    padding: 0 45px;
+    margin: 30px;
+    text-indent: 15px;
+    height: auto;
+    width: auto;
+    text-align: left;
+    background-color: #fffcfc
 }
  
-/* FIM - menu departamento e busca */
+#produto-1{ /* estilização dessa foto */    
+    margin: 0 10px 20px 30px;
+}
+
+figure#produto-1 {/* box de todas as figuras */
+    background-color: #F2EDED;
+    border: 1px	solid #ccc;
+    text-align:	center;
+    padding: 15px;
+}
+
+figure#produto-1 figcaption{/* legenda de todas as figuras */
+    font-style: italic;
+    padding: 3px;
+    margin: 1px;
+}
+
+h2#titulo-produto{ /* Subtítulo H2 */
+    border-bottom: 2px solid #333333;
+    margin-top: 30px;
+}
+
+p.textos{    
+    padding: 0 45px;
+    margin: 30px;
+    text-indent: 15px;
+    height: auto;
+    width: auto;
+    text-align: left;
+    background-color: #fffcfc
+} 
+
+/* FIM - produto-destaque */
+
+/* FIM - Container */ 
+
+/* INÍCIO - mapa da pagina */
+.mapadapagina{ 
+    padding-left: 15px;
+}
+/* FIM - mapa da pagina */
+
+/* INÍCIO - rodapé */
+#rodape{
+    color: #777;
+    margin: 30px 0;
+    padding: 30px 0;    
+}
+
+#rodape img{
+    margin-right: 30px;
+    vertical-align: middle;
+    width: 74px;
+}
+/* FIM - rodapé */ 
