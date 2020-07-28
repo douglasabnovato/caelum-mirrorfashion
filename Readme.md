@@ -440,7 +440,12 @@ input[name$="teste"]{
     background-color: #CCFF00;
 }
 ````
-
+A seguir, busca por inputs com valor do atributo name contendo tela em qualquer parte do nome.
+````css
+input[name*="tela"]{
+    color: #666666;
+}
+````
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)<br/>
 . De [Caelum - Apostilas - Web](https://www.caelum.com.br/apostilas)
