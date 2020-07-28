@@ -494,7 +494,7 @@ Estilização: ao invés de colocar um id diferente em cada um dos links de rede
 
 35. DESAFIO - RODAPÉ: Utilizaremos as tags, footer, img, ul, li, a.
 
-36. ÍCONES das redes sociais: tamanho 32x32 png. Download do site <a href="https://www.flaticon.com/br/autores/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon"> www.flaticon.com</a>
+36. ÍCONES das redes sociais: tamanho 32x32 png. Download do site [Freepik](https://www.flaticon.com/br/autores/freepik) 
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)<br/>
 . De [Caelum - Apostilas - Web](https://www.caelum.com.br/apostilas)
