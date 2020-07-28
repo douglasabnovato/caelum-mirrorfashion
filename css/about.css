@@ -136,15 +136,64 @@ div.textos-bloco{
 /* FIM - mapa da pagina */
 
 /* INÍCIO - rodapé */
-#rodape{
-    color: #777;
-    margin: 30px 0;
-    padding: 30px 0;    
+
+footer{
+    background-image: url(../img/fundo-rodape.png);
+    clear: both;
+    padding: 15px 0;
 }
 
-#rodape img{
-    margin-right: 30px;
-    vertical-align: middle;
-    width: 74px;
+footer .container-rodape {
+    position: relative; 
 }
+
+.container-rodape .image-copy{
+    color: white;  
+}
+
+footer img{
+    padding-left: 15px;
+    padding-top: 5px;
+}
+
+.social {
+    position: absolute;
+    top: 2px;
+    right: 15px;
+}
+
+.social li { 
+    float: left;
+    margin-left: 25px;
+}
+
+.social a {
+    /* tamanho da imagem */
+    height: 32px;
+    width: 32px;
+    /* image replacement */
+    display: block;
+    text-indent: -9999px;
+}
+
+.social a[href*="github.com"]{
+    background-image: url(../img/github.png);
+}
+
+.social a[href*="medium.com"]{
+    background-image: url(../img/medium.png);
+}
+
+.social a[href*="instagram.com"]{
+    background-image: url(../img/instagram.png);
+}
+
+.social a[href*="facebook.com"]{
+    background-image: url(../img/facebook.png);
+}
+
+.social a[href*="twitter.com"]{
+    background-image: url(../img/twitter.png);
+}
+
 /* FIM - rodapé */ 

@@ -78,13 +78,13 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [x] 4.6	Para	saber	mais:	o	valor	inherit 65
 - [x] 4.7	Exercícios:	menu	e	destaque 66
 - [x] 4.8	Display	inline-block 69
-- [ ] 4.9	Exercícios:	painéis	flutuantes 70
-- [ ] 4.10	Seletores	de	atributo	do	CSS3 73
-- [ ] 4.11	Rodapé 74
-- [ ] 4.12	Substituição	por	Imagem 75
-- [ ] 4.13	Estilização	e	posicionamento	do	rodapé 75
-- [ ] 4.14	Exercícios:	rodapé 77
-- [ ] 4.15	Exercícios	opcionais 79
+- [x] 4.9	Exercícios:	painéis	flutuantes 70
+- [x] 4.10	Seletores	de	atributo	do	CSS3 73
+- [x] 4.11	Rodapé 74
+- [x] 4.12	Substituição	por	Imagem 75
+- [x] 4.13	Estilização	e	posicionamento	do	rodapé 75
+- [x] 4.14	Exercícios:	rodapé 77
+- [x] 4.15	Exercícios	opcionais 79
 
 - CAPÍTULO CINCO
 
@@ -494,7 +494,7 @@ Estilização: ao invés de colocar um id diferente em cada um dos links de rede
 
 35. DESAFIO - RODAPÉ: Utilizaremos as tags, footer, img, ul, li, a.
 
-36. ÍCONES das redes sociais: tamanho 32x32 png. Download do site [Freepik](https://www.flaticon.com/br/autores/freepik) 
+36. ÍCONES das redes sociais: tamanho 32x32 png. Download do site [Freepik](https://www.flaticon.com/br/autores/freepik). 
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)<br/>
 . De [Caelum - Apostilas - Web](https://www.caelum.com.br/apostilas)

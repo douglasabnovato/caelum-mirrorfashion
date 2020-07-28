@@ -280,11 +280,15 @@ p.textos{
 footer{
     background-image: url(../img/fundo-rodape.png);
     clear: both;
-    padding: 20px 0;
+    padding: 15px 0;
 }
 
 footer .container-rodape {
-    position: relative;
+    position: relative; 
+}
+
+.container-rodape .image-copy{
+    color: white;  
 }
 
 footer img{
