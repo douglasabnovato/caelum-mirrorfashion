@@ -447,5 +447,51 @@ input[name*="tela"]{
 }
 ````
 
+33. SUBSTITUIÇÃO por imagem: Image Replacement: 1. acertar o tamanho do elemento para ficar igual ao da imagem; 2. colocar a imagem como background do elemento. 3. esconder texto. Para esconder o texto vamos usar o text-indent negativo e bastante alto, o que vai renderizar o texto fora da tela.
+````css
+.facebook{
+    height: 85px;
+    width: 55px;
+    background-image: url(/img/facebook.png);
+    text-indent: -9999px;
+}
+````
+
+34. ESTILIZAÇÃO e POSICIONAMENTO do rodapé: o rodapé ocupa 100% da largura da página.
+````html
+<footer>
+    <div class="container">
+        ...
+    </div>
+</footer>
+````
+Posicionamento: Lembre-se sempre do fluxo de renderização do html. Como os elementos que veem antes do rodapé estão flutuando na página, o rodapé não ficará lá embaixo. Uma maneira de corrigir esse problema é utilizar uma certa propriedade.
+````css
+footer{
+    clear:both
+}
+````
+Dentro do rodapé temos uma lista de ícones e queremos que fique a direita. E para isso, acertaremos com posicionamento absoluto.~
+````css
+footer{
+    position: relative;
+}
+````
+Para os links das redes sociais que desejamos que fique um do lado do outro, essa flutuação lado a lado deve ser feita com 
+````css
+footer li{
+    float: left;
+}
+````
+
+Estilização: ao invés de colocar um id diferente em cada um dos links de redes sociais que desejamos colocar, utilizamos o método de seletores de atributo.
+
+`````css
+.social a[href*="facebook.com"]{
+    background-image: url("/img/facebook.png");
+}
+````
+
+
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)<br/>
 . De [Caelum - Apostilas - Web](https://www.caelum.com.br/apostilas)

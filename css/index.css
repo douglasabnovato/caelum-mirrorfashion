@@ -273,4 +273,11 @@ p.textos{
     vertical-align: middle;
     width: 74px;
 }
+
+.facebook{
+    height: 85px;/* tamanho do elemento = tamanho da imagem */
+    width: 55px;
+    background-image: url(/img/facebook.png); /*imagem como fundo*/
+    text-indent: -9999px;/*retirar o texto da frente da tela*/
+}
 /* FIM - rodapé */ 
