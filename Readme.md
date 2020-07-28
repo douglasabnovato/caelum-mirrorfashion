@@ -396,5 +396,10 @@ elemento pai.
 
 29. Painel flutuante: painel de novidades deve flutuar a esquerda e o mais vendido deve flutuar a direita. Cada um deve ocupar 445px, pouco menos da metade de 940px, assim ficará um do lado do outro.
 
+30. Os itens e produtos dentro da lista de cada painel dispostos lado a lado mas com certo tamanho e espaçamento para alinhamento. Isso é possível fazendo: display: inline-block nos elementos da lista, e para alinhar os produtos pelo topo, com vertical-align: top.
+
+31. Além do posicionamento, precisamos cuidar das regras de estilo como tamanho, títulos, cores e fundo.
+
+
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)<br/>
 . De [Caelum - Apostilas - Web](https://www.caelum.com.br/apostilas)
