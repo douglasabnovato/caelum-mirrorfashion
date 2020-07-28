@@ -400,6 +400,47 @@ elemento pai.
 
 31. Além do posicionamento, precisamos cuidar das regras de estilo como tamanho, títulos, cores e fundo.
 
+32. SELETORES de atributos do CSS: Os seletores de TAGS mais conhecidos são os CLASSE(class no html e "." no css) e ID(id no html e "#" no css). Mas há também outro grupo de seletores, os de ATRIBUTOS.<br/>
+SELETOR DE ATRIBUTOS usado para verificar a presença ou valor de um atributo para selecioná-lo.<br/>
+A seguir, o seletor de atributo age em todos os elementos da tag input que tenham o atributo value e insere o valor cc0000.
+````css
+input[value]{
+    color: #CC0000;
+}
+````
+A seguir, o seletor de atributo age verificando se o atributo type tem o valor text e quando isso for verdadeiro, adiciona a propriedade border-radius com o valor 4px.
+````css
+input[type="text"]{
+    border-radius: 4px;
+}
+````
+A seguir, o seletor de atributos com prefixo, que utiliza o operador para selecionar valores em determinadas condições. No nosso caso, o atributo age em todas as tags div cujo o atributo class comece com a palavra menu seguido de um hífen e qualquer texto, como por exemplo, menu-principal, menu-departamentos e menu-teste.
+````css
+div[lass |="menu"]{
+    border-radius:4px;
+}
+````
+A seguir, também é possível buscar por uma palavra específica no valor, não importando o valor completo do atributo. O atributo agirá na tag input que contiveram a palavra "problema" em seu conteúdo.
+````css
+input[value~="problema"]{
+    color: #cc0000;
+}
+````
+
+Outro ponto muito interessante dos seletores no CSS é que é possível utilizar novos operadores com sinais que se assemelham aos das expressões regulares.<br/>
+A seguir, busca por inputs com valores de name iniciando(^) em usuario.
+````css
+input[name^="usuario"]{
+    color: #99FFCC;
+}
+````
+A seguir, busca por inputs com valor de name terminando($) em teste.
+````css
+input[name$="teste"]{
+    background-color: #CCFF00;
+}
+````
+
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)<br/>
 . De [Caelum - Apostilas - Web](https://www.caelum.com.br/apostilas)
