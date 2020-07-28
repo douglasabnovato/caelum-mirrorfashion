@@ -492,6 +492,7 @@ Estilização: ao invés de colocar um id diferente em cada um dos links de rede
 }
 ````
 
+35. DESAFIO - RODAPÉ: Utilizaremos as tags, footer, img, ul, li, a
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)<br/>
 . De [Caelum - Apostilas - Web](https://www.caelum.com.br/apostilas)
