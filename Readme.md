@@ -486,7 +486,7 @@ footer li{
 
 Estilização: ao invés de colocar um id diferente em cada um dos links de redes sociais que desejamos colocar, utilizamos o método de seletores de atributo.
 
-`````css
+````css
 .social a[href*="facebook.com"]{
     background-image: url("/img/facebook.png");
 }
