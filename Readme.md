@@ -390,5 +390,9 @@ elemento pai.
 
 26. DESAFIO: um	fundo cinza nas caixas de busca e no menu de departamentos. O texto deve estar	 em negrito e apresentado em maiúsculas. Também haverá algumas regras de tamanhos e margens.
 
+27. Painéis flutuantes: Display inline-block: Painel com uma lista de novidades e mais vendidos de produtos, com li: display : block ou inline; width; margin; padding; 
+
+28. Tags dos paineis: div: container paineis, section: painel de novidades, h2: título de novidades, ol: lista de produtos, li: vários com produtos (links e imagens dentro de cada um), section: painel mais-vendidos, h2: título mais vendidos, ol: lista de produtos, li: vários com produtos (links e imagens dentro de cada um )
+
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)<br/>
 . De [Caelum - Apostilas - Web](https://www.caelum.com.br/apostilas)

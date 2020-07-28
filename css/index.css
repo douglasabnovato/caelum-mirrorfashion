@@ -12,6 +12,11 @@ h3{
     background-color: #F2EDED;
 }
 
+.container	{ 
+    margin: 0	auto;
+    width: 940px;
+}
+
 /* FIM - Elementos gerais */
 
 /* INÍCIO - Header */
@@ -63,10 +68,6 @@ header {
 /* FIM - Header */
 
 /* INÍCIO - Container */
-
-.container	{ 
-    margin-top: 10px;
-}
 
 .destaque	{
     margin-top: 10px;
@@ -136,6 +137,7 @@ header {
 
 .menu-departamentos a {
     color: #333333;
+    margin-left: 15px;
     text-decoration: none;
 }
 /* FIM - menu-departamentos */
