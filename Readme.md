@@ -88,9 +88,9 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 
 - CAPÍTULO CINCO
 
-- [ ] 5	CSS	Avançado
-- [ ] 5.1	Seletores	avançados 80
-- [ ] 5.2	Pseudo-classes 83
+- [x] 5	CSS	Avançado
+- [x] 5.1	Seletores	avançados 80
+- [x] 5.2	Pseudo-classes 83
 - [ ] 5.3	Pseudo	elementos 85
 - [ ] 5.4	Exercícios:	seletores,	pseudo-classes	e	pseudo-elementos 87
 - [ ] 5.5	Exercícios	opcionais 89
@@ -546,6 +546,36 @@ Uma solução para conseguirmos mudar a cor do título principal é com um selet
 ````css
 article > h1 {
     color: blue;
+}
+````
+41. Seletor de negação: diante da situação de vários parágrafos simples, queremos fazer todos os parágrafos cinza, exceto o "texto principal".
+````html
+<p>Texto</p>
+<p>Outro texto</p>
+<p>Texto especial</p>
+<p>Mais texto</p>
+````
+Uma solução é colocar os paragráfos cinza, e no texto especial, criar uma classe especial e sobreescrevê-la de preto.
+````html
+<p>Texto</p>
+<p>Outro texto</p>
+<p class="especial">Texto especial</p>
+<p>Mais texto</p>
+````
+````css
+p {
+    color: gray;
+}
+````
+````css
+p.especial {
+    color: black;
+}
+````
+A melhor solução é usar o seletor negação, permite agir nos elementos que não atendem a regra.
+````css
+p:not(.especial) { 
+    color: gray;
 }
 ````
 
