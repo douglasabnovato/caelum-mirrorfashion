@@ -496,7 +496,26 @@ Estilização: ao invés de colocar um id diferente em cada um dos links de rede
 
 36. ÍCONES das redes sociais: tamanho 32x32 png. Download do site [Freepik](https://www.flaticon.com/br/autores/freepik). 
 
-36. Capítulo 5: Css Avançado: Seletores Avançados. Os seletores tradicionais são por ID, por classe e os por descendência. Temos também os seletores de atributos.
+37. Capítulo 5: Css Avançado: Seletores Avançados. Os seletores tradicionais são por ID, por classe e os por descendência. Temos também os seletores de atributos.
+
+38. Seletores Irmãos.
+````html
+<article>
+    <h1>Título</h1>
+    <p>Início</p>
+
+    <h2>Subtítulo</h2>
+    <p>Texto</p>
+    <p>Mais texto</p>
+</article>
+````
+````css
+h2 ~ p{
+    font-style: italic;
+}
+````
+39. 
+
 
 XX. GITFLOW - fluxo de trabalho: branches master, develop, featura, release.
 
