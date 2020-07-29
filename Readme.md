@@ -514,8 +514,13 @@ h2 ~ p{
     font-style: italic;
 }
 ````
-39. 
-
+39. Seletor irmão adjacente (adjacent sibling): o parágrafo imediatamente seguinte ao subtítulo, ou seja, um p irmão do h2 que aparece logo na sequência.
+````css
+h2 + p{
+    font-variant: small-caps;
+}
+````
+40. Seletor filho direito: queremos deixar o título principal de outra cor. O que não vai resolver: 
 
 XX. GITFLOW - fluxo de trabalho: branches master, develop, featura, release.
 
