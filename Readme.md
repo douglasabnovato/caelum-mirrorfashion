@@ -520,7 +520,34 @@ h2 + p{
     font-variant: small-caps;
 }
 ````
-40. Seletor filho direito: queremos deixar o título principal de outra cor. O que não vai resolver: 
+40. Seletor filho direito: queremos deixar o título principal de outra cor. 
+````html
+<article>
+    <h1>Título Principal</h1>
+    <section>
+        <h1>Título da seção</h1>
+    </section>
+</article>
+````
+O que não vai resolver: <br/>
+seletor de nome de tags simples por que vai agir em todos os h1 da página
+````css
+h1{
+    color: blue;
+}
+````
+seletor de hierarquia por que vai agir em todos os h1 do article, incluindo o de dentro da section
+````css
+article h1{
+    color: blue;
+}
+````
+Uma solução para conseguirmos mudar a cor do título principal é com um seletor filho direito:
+````css
+article > h1 {
+    color: blue;
+}
+````
 
 XX. GITFLOW - fluxo de trabalho: branches master, develop, featura, release.
 
