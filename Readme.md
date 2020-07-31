@@ -630,7 +630,31 @@ li:last-child{
 44. Classe Container: colocar `.container-areaUsada` ao invés de somente `.container` para não dar interferências não esperadas e marcar no css aonde a classe está sendo usada caso seja aplicada em diversos locais de diferentes componentes.
 
 45. Pseudo Classe de Estado: quero mudar a cor de um link quando passamos o mouse por cima do texto, ou seja, quero mudar o visual a partir de um evento do usuário. O Css oferece pseudo classes que representam estados dos elementos.<br/>
-Uma classe para quando o usuário está com o mouse em cima do elemento é a `:hover`.
+Uma classe para quando o usuário está com o mouse em cima do elemento é a `:hover`. A seguir, o trecho de código seleciona o link no exato momento em que passamos o mouse por cima.
+````css
+a:hover{
+    background-color: #FF00FF;
+}
+````
+Selecionar todas as âncoras que tem o atributo "href", ou seja, links:
+````css
+a:link{
+    background-color: #FF0000;
+}
+````
+Selecionar todos os links cujo o valor de "href" é um endereço já visitado:
+````css
+a:visited{
+    background-color: #00FF00;
+}
+````
+Selecionar o link no momento em que clicamos nele:
+````css
+a:active{
+    background-color: #0000FF;
+}
+````
+
 
 XX. fluxo de trabalho do git<br/>
 Gitflow: branches master, develop, feature, release, hotfix;<br/>
