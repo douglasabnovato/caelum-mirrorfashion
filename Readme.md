@@ -578,8 +578,11 @@ p:not(.especial) {
     color: gray;
 }
 ````
+42. Pseudo Classe:
 
-XX. GITFLOW - fluxo de trabalho: branches master, develop, featura, release.
+XX. fluxo de trabalho do git<br/>
+Gitflow: branches master, develop, feature, release, hotfix;<br/>
+Github flow: branches master e feature.
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)<br/>
 . De [Caelum - Apostilas - Web](https://www.caelum.com.br/apostilas)
