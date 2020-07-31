@@ -670,6 +670,22 @@ p::first-line{
     font-style: italic;
 }
 ````
+Gerar novo conteúdo via css.<br/> Meu html
+````html
+<a href="...">Link 1</a>
+<a href="...">Link 2</a>
+<a href="...">Link 3</a>
+````
+Meu css
+````css
+a:before{
+    content: '[ ';
+}
+
+a:after{
+    content: ' ]';
+}
+````
 
 XX. fluxo de trabalho do git<br/>
 Gitflow: branches master, develop, feature, release, hotfix;<br/>
