@@ -624,6 +624,12 @@ li:last-child{
     color: blue;
 }
 ````
+43. Pseudo Classe de Estado: 
+
+44. Marcações semânticas: representar o texto todo com  article e suas seções com section.
+
+45. Classe Container: colocar `.container-areaUsada` ao invés de somente `.container` para não dar interferências não esperadas e marcar no css aonde a classe está sendo usada caso seja aplicada em diversos locais de diferentes componentes.
+
 
 XX. fluxo de trabalho do git<br/>
 Gitflow: branches master, develop, feature, release, hotfix;<br/>
