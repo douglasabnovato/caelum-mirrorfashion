@@ -654,9 +654,21 @@ a:active{
     background-color: #0000FF;
 }
 ````
-46: Pseudo Elementos: 
+46: Pseudo Elementos: nos possibilita selecionar elementos com certas características sem termos que colocar uma classe manualmente.
 ````html
-<p>A Caelum tem os melhores cursos !</p>
+<p>A Caelum tem os melhores cursos ! </p>
+````
+Selecionar a primeira letra de um texto.
+````css
+p::first-letter{
+    font-size: 200%;
+}
+````
+Selecionar a primeira linha de um texto.
+````css
+p::first-line{
+    font-style: italic;
+}
 ````
 
 XX. fluxo de trabalho do git<br/>
