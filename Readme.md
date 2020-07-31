@@ -686,6 +686,8 @@ a:after{
     content: ' ]';
 }
 ````
+A visualização na página será:
+<br/>`[ Link 1 ]`<br/>`[ Link 2 ]`<br/>`[ Link 3 ]`
 
 XX. fluxo de trabalho do git<br/>
 Gitflow: branches master, develop, feature, release, hotfix;<br/>
