@@ -624,12 +624,13 @@ li:last-child{
     color: blue;
 }
 ````
-43. Pseudo Classe de Estado: 
 
-44. Marcações semânticas: representar o texto todo com  article e suas seções com section.
+43. Marcações semânticas: representar o texto todo com  article e suas seções com section.
 
-45. Classe Container: colocar `.container-areaUsada` ao invés de somente `.container` para não dar interferências não esperadas e marcar no css aonde a classe está sendo usada caso seja aplicada em diversos locais de diferentes componentes.
+44. Classe Container: colocar `.container-areaUsada` ao invés de somente `.container` para não dar interferências não esperadas e marcar no css aonde a classe está sendo usada caso seja aplicada em diversos locais de diferentes componentes.
 
+45. Pseudo Classe de Estado: quero mudar a cor de um link quando passamos o mouse por cima do texto, ou seja, quero mudar o visual a partir de um evento do usuário. O Css oferece pseudo classes que representam estados dos elementos.<br/>
+Uma classe para quando o usuário está com o mouse em cima do elemento é a `:hover`.
 
 XX. fluxo de trabalho do git<br/>
 Gitflow: branches master, develop, feature, release, hotfix;<br/>
