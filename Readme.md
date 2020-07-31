@@ -578,7 +578,52 @@ p:not(.especial) {
     color: gray;
 }
 ````
-42. Pseudo Classe:
+42. Pseudo Classe: <br/>
+Uma lista de elementos:
+````html
+<ul>
+    <li>Primeiro Item</li>
+    <li>Segundo Item</li>
+    <li>Terceiro Item</li>
+    <li>Quarto Item</li>
+</ul>
+````
+Para fazer o primeiro elemento de cor vermelha e o último de cor azul tenho que colocar uma classe no primeiro e outra classe no último e então, realizar a alteração no css.
+````html
+<ul>
+    <li class="primeiro">Primeiro Item</li>
+    <li>Segundo Item</li>
+    <li>Terceiro Item</li>
+    <li class="quarto">Quarto Item</li>
+</ul>
+````
+````css
+.primeiro{
+    color: red;
+}
+
+.quarto{
+    color: blue;
+}
+````
+Usar as pseudo classes `first-child`,primeiro elemento filho, e a `last-child`, último elemento filho, é possível ir diretamente ao css sem a necessidade de fazer marcações no html.
+````html
+<ul>
+    <li>Primeiro Item</li>
+    <li>Segundo Item</li>
+    <li>Terceiro Item</li>
+    <li>Quarto Item</li>
+</ul>
+````
+````css
+li:first-child{
+    color: red;
+}
+
+li:last-child{
+    color: blue;
+}
+````
 
 XX. fluxo de trabalho do git<br/>
 Gitflow: branches master, develop, feature, release, hotfix;<br/>
