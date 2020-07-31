@@ -91,21 +91,21 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [x] 5	CSS	Avançado
 - [x] 5.1	Seletores	avançados 80
 - [x] 5.2	Pseudo-classes 83
-- [ ] 5.3	Pseudo	elementos 85
-- [ ] 5.4	Exercícios:	seletores,	pseudo-classes	e	pseudo-elementos 87
+- [x] 5.3	Pseudo	elementos 85
+- [ ] 5.4	Exercícios:	seletores, pseudo-classes e pseudo-elementos 87
 - [ ] 5.5	Exercícios	opcionais 89
-- [ ] 5.6	CSS3:	border-radius 90
-- [ ] 5.7	CSS3:	text-shadow 91
-- [ ] 5.8	CSS3:	box-shadow 93
-- [ ] 5.9	Opacidade	e	RGBA 95
+- [ ] 5.6	CSS3: border-radius 90
+- [ ] 5.7	CSS3: text-shadow 91
+- [ ] 5.8	CSS3: box-shadow 93
+- [ ] 5.9	Opacidade e RGBA 95
 - [ ] 5.10	Prefixos 99
-- [ ] 5.11	CSS3:	Gradientes 98
+- [ ] 5.11	CSS3: Gradientes 98
 - [ ] 5.12	Progressive	Enhancement 100
 - [ ] 5.13	Exercícios:	visual	CSS3 101
-- [ ] 5.14	CSS3	Transitions 103
-- [ ] 5.15	CSS3	Transforms 104
-- [ ] 5.16	Exercícios:	CSS3	transform	e	transition 106
-- [ ] 5.17	Para	saber	mais:	especificidade	de	seletores	CSS 109
+- [ ] 5.14	CSS3 Transitions 103
+- [ ] 5.15	CSS3 Transforms 104
+- [ ] 5.16	Exercícios:	CSS3 transform e transition 106
+- [ ] 5.17	Para saber mais: especificidade de seletores CSS 109
 
 - CAPÍTULO SEIS
 
@@ -654,7 +654,10 @@ a:active{
     background-color: #0000FF;
 }
 ````
-
+46: Pseudo Elementos: 
+````html
+<p>A Caelum tem os melhores cursos !</p>
+````
 
 XX. fluxo de trabalho do git<br/>
 Gitflow: branches master, develop, feature, release, hotfix;<br/>
