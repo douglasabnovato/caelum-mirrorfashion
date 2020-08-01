@@ -689,9 +689,10 @@ a:after{
 A visualização na página será:
 <br/>`[ Link 1 ]`<br/>`[ Link 2 ]`<br/>`[ Link 3 ]`
 
-XX. fluxo de trabalho do git<br/>
+47. fluxo de trabalho do git<br/>
 Gitflow: branches master, develop, feature, release, hotfix;<br/>
-Github flow: branches master e feature.
+Github flow: branches master e feature.<br/>
+
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)<br/>
 . De [Caelum - Apostilas - Web](https://www.caelum.com.br/apostilas)
