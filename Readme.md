@@ -703,7 +703,9 @@ Alterar a primeira linha do texto em letra maiúscula.
 Alterar o estado ao passar o mouse.<br/>
 Alterar o estado ao clicar.
 
-50. Um menu que abre e feicha com css puro.
+50. Estilização na página home, um menu que abre e feicha com css puro.<br/>
+O menu-departamentos na esquerda da página com várias categorias de produtos.<br/>
+Adicionar subcategorias que aparecem apenas quando o usuário passar o mouse.
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)<br/>
 . De [Caelum - Apostilas - Web](https://www.caelum.com.br/apostilas)
