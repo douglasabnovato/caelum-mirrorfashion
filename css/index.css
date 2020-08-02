@@ -177,6 +177,18 @@ header {
     background-color: #dcdcdc;
 }
 
+.menu-departamentos li li a:before{
+    content: '- ';
+}
+
+.menu-departamentos li li a:hover{
+    color: #007dc6;
+}
+
+.menu-departamentos li li a:active { 
+    color: #867dc6;
+}
+
 /* FIM - menu-departamentos */
 
 /*INÍCIO - banner-destaque */
