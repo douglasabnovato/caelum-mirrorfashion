@@ -691,7 +691,12 @@ A visualização na página será:
 
 47. fluxo de trabalho do git<br/>
 Gitflow: branches master, develop, feature, release, hotfix;<br/>
-Github flow: branches master e feature.<br/>
+Github flow: branches master e feature.
+
+48. Tarefa com Seletor, Pseudo classe e Pseudo Elemento.<br/>
+Vamos aplicar as estilizações a seguir na página about:<br/>
+Primeira letra dos parágrafos em negrito.<br/>
+Remover a identação do primeiro parágrafo<br/>
 
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)<br/>
