@@ -164,6 +164,19 @@ header {
     margin-left: 15px;
     text-decoration: none;
 }
+
+.menu-departamentos li ul{
+    display: none;
+}
+
+.menu-departamentos li:hover ul{
+    display: block;
+}
+
+.menu-departamentos ul ul li{
+    background-color: #dcdcdc;
+}
+
 /* FIM - menu-departamentos */
 
 /*INÍCIO - banner-destaque */

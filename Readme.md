@@ -705,7 +705,8 @@ Alterar o estado ao clicar.
 
 50. Estilização na página home, um menu que abre e feicha com css puro.<br/>
 O menu-departamentos na esquerda da página com várias categorias de produtos.<br/>
-Adicionar subcategorias que aparecem apenas quando o usuário passar o mouse.
+Adicionar subcategorias que aparecem apenas quando o usuário passar o mouse.<br/>
+Adicionamos essa sublista que deve permanecer escondida, quando passar o mouse será exibida.
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)<br/>
 . De [Caelum - Apostilas - Web](https://www.caelum.com.br/apostilas)
