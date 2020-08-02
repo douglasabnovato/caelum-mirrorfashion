@@ -699,6 +699,11 @@ Primeira letra dos parágrafos em negrito.<br/>
 Remover a identação do primeiro parágrafo. Sabendo que esse é o primeiro parágrafo depois do título, usar o seletor irmão adjacente.<br/>
 Alterar a primeira linha do texto em letra maiúscula.
 
+49. Estilização na página home, menu-opções.<br/>
+Alterar o estado ao passar o mouse.<br/>
+Alterar o estado ao clicar.
+
+50. Um menu que abre e feicha com css puro.
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)<br/>
 . De [Caelum - Apostilas - Web](https://www.caelum.com.br/apostilas)

@@ -67,6 +67,14 @@ header {
     text-decoration: none;
 } 
 
+.menu-opcoes a:hover{
+    color: #007dc6;
+}
+
+.menu-opcoes a:active { 
+    color: #867dc6;
+}
+
 /* FIM - Header */
 
 /* INÍCIO - Container */
