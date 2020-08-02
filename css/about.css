@@ -32,6 +32,10 @@ h1 + p {
     text-indent: 0;
 }
 
+p::first-line{
+    font-variant: small-caps;
+}
+
 .container	{
     margin: 0	auto;
     width: 940px;
