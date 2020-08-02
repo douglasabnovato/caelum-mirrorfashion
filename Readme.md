@@ -92,8 +92,8 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [x] 5.1	Seletores	avançados 80
 - [x] 5.2	Pseudo-classes 83
 - [x] 5.3	Pseudo	elementos 85
-- [ ] 5.4	Exercícios:	seletores, pseudo-classes e pseudo-elementos 87
-- [ ] 5.5	Exercícios	opcionais 89
+- [x] 5.4	Exercícios:	seletores, pseudo-classes e pseudo-elementos 87
+- [x] 5.5	Exercícios	opcionais 89
 - [ ] 5.6	CSS3: border-radius 90
 - [ ] 5.7	CSS3: text-shadow 91
 - [ ] 5.8	CSS3: box-shadow 93
@@ -703,10 +703,14 @@ Alterar a primeira linha do texto em letra maiúscula.
 Alterar o estado ao passar o mouse.<br/>
 Alterar o estado ao clicar.
 
-50. Estilização na página home, um menu que abre e feicha com css puro.<br/>
+50. Estilização na página home, um menu que abre e fecha com css puro.<br/>
 O menu-departamentos na esquerda da página com várias categorias de produtos.<br/>
 Adicionar subcategorias que aparecem apenas quando o usuário passar o mouse.<br/>
 Adicionamos essa sublista que deve permanecer escondida, quando passar o mouse será exibida.
+
+51. Estilização na página about:
+Apenas os parágrafos de início de seção estiverem com as primeiras linhas em small-caps.<br/>
+Para isso, alterar todos os parágrafos que não estão no meio do texto, ou seja, não são precedidos por outro parágrafo mas sim precedidos por títulos, figuras, etc.
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)<br/>
 . De [Caelum - Apostilas - Web](https://www.caelum.com.br/apostilas)
