@@ -696,7 +696,8 @@ Github flow: branches master e feature.
 48. Tarefa com Seletor, Pseudo classe e Pseudo Elemento.<br/>
 Vamos aplicar as estilizações a seguir na página about:<br/>
 Primeira letra dos parágrafos em negrito.<br/>
-Remover a identação do primeiro parágrafo<br/>
+Remover a identação do primeiro parágrafo. Sabendo que esse é o primeiro parágrafo depois do título, usar o seletor irmão adjacente.<br/>
+Alterar a primeira linha do texto em letra maiúscula.
 
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)<br/>
