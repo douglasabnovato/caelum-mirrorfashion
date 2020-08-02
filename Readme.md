@@ -712,5 +712,13 @@ Adicionamos essa sublista que deve permanecer escondida, quando passar o mouse s
 Apenas os parágrafos de início de seção estiverem com as primeiras linhas em small-caps.<br/>
 Para isso, alterar todos os parágrafos que não estão no meio do texto, ou seja, não são precedidos por outro parágrafo mas sim precedidos por títulos, figuras, etc.
 
+52. Border-Radius: uma propriedade que recebe o tamanho do raio de arredondamento das bordas: superior esquerda, superior direita, inferior direita, inferior esquerda.
+
+53. Text-Shadow: uma propriedade que recebe o deslocamento da sombra, sua cor e grau de espaçamento, aplicada em textos.
+
+54. Box-Shadow: uma propriedade que recebe o deslocamento da sombra, sua cor, blur e grau de espaçamento, aplicada em elementos. Há a possibilidade de usar keyword inset, para uma borda interna.
+
+55. Opacity e rgba: 
+
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)<br/>
 . De [Caelum - Apostilas - Web](https://www.caelum.com.br/apostilas)
