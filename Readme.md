@@ -722,7 +722,13 @@ Para isso, alterar todos os parágrafos que não estão no meio do texto, ou sej
 
 56. RGB: uma propriedade que passamos valores para os canais de cores e formamos o tom que desejamos a partir de red, green e blue. Na propriedade RGBA, o elemento A é a opacidade.
 
-57. Prefixos: 
+57. Prefixos: São nomes provisórios para as novas propriedades. Os prefixos dos fabricantes mais famosos.
+````css
+-webkit- "navegadores Webkit - Chrome - Safari - iOS - Android"
+-moz- "Firefox - Mozila "
+-ms- "Internet Explorer"
+-o- "Opera"
+````
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)<br/>
 . De [Caelum - Apostilas - Web](https://www.caelum.com.br/apostilas)
