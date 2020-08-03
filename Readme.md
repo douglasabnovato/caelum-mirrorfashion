@@ -718,7 +718,11 @@ Para isso, alterar todos os parágrafos que não estão no meio do texto, ou sej
 
 54. Box-Shadow: uma propriedade que recebe o deslocamento da sombra, sua cor, blur e grau de espaçamento, aplicada em elementos. Há a possibilidade de usar keyword inset, para uma borda interna.
 
-55. Opacity e rgba: 
+55. Opacity: uma propriedade que passamos o percentual de transparência.
+
+56. RGB: uma propriedade que passamos valores para os canais de cores e formamos o tom que desejamos a partir de red, green e blue. Na propriedade RGBA, o elemento A é a opacidade.
+
+57. Prefixos: 
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)<br/>
 . De [Caelum - Apostilas - Web](https://www.caelum.com.br/apostilas)
