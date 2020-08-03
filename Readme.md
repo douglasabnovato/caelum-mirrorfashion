@@ -94,11 +94,11 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [x] 5.3	Pseudo	elementos 85
 - [x] 5.4	Exercícios:	seletores, pseudo-classes e pseudo-elementos 87
 - [x] 5.5	Exercícios	opcionais 89
-- [ ] 5.6	CSS3: border-radius 90
-- [ ] 5.7	CSS3: text-shadow 91
-- [ ] 5.8	CSS3: box-shadow 93
-- [ ] 5.9	Opacidade e RGBA 95
-- [ ] 5.10	Prefixos 99
+- [x] 5.6	CSS3: border-radius 90
+- [x] 5.7	CSS3: text-shadow 91
+- [x] 5.8	CSS3: box-shadow 93
+- [x] 5.9	Opacidade e RGBA 95
+- [x] 5.10	Prefixos 99
 - [ ] 5.11	CSS3: Gradientes 98
 - [ ] 5.12	Progressive	Enhancement 100
 - [ ] 5.13	Exercícios:	visual	CSS3 101
@@ -729,6 +729,8 @@ Para isso, alterar todos os parágrafos que não estão no meio do texto, ou sej
 -ms- "Internet Explorer"
 -o- "Opera"
 ````
+Existe uma tabela de compatibilidade para consultar qual navegador suporta qual propriedade.
+
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)<br/>
 . De [Caelum - Apostilas - Web](https://www.caelum.com.br/apostilas)
