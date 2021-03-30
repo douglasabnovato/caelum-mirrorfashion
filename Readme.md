@@ -8,7 +8,7 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 
 #### Ementa
 
-- CAPÍTULO UM
+##### CAPÍTULO UM
 
 - [x] 1	Sobre	o	curso	-	o	complexo	mundo	do	front-end
 - [x] 1.1	O	curso	e	os	exercícios 2
