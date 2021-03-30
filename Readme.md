@@ -18,7 +18,7 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [x] 1.5	Bibliografia 4
 - [x] 1.6	Para	onde	ir	depois? 4
 
-- CAPÍTULO DOIS
+##### CAPÍTULO DOIS
 
 - [x] 2	Introdução	a	HTML	e	CSS
 - [x] 2.1	Exibindo	informações	na	Web 6
@@ -49,7 +49,7 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [x] 2.26	Exercícios:	seletores	CSS	e	flutuação	de	elementos 38
 - [x] 2.27	O	futuro	e	presente	da	Web	com	o	HTML5 40
 
-- CAPÍTULO TRÊS
+##### CAPÍTULO TRÊS
 
 - [x] 3	HTML	semântico	e	posicionamento	no	CSS
 - [x] 3.1	O	processo	de	desenvolvimento	de	uma	tela 41
@@ -67,7 +67,7 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [x] 3.13	Para	saber	mais:	suporte	HTML5	no	Internet	Explorer	antigo - [ ] 58
 - [x] 3.14	Exercícios	opcionais 60
 
-- CAPÍTULO QUATRO 
+##### CAPÍTULO QUATRO 
 
 - [x] 4	Mais	HTML	e	CSS
 - [x] 4.1	Analisando	o	miolo	da	página 61
@@ -86,7 +86,7 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [x] 4.14	Exercícios:	rodapé 77
 - [x] 4.15	Exercícios	opcionais 79
 
-- CAPÍTULO CINCO
+##### CAPÍTULO CINCO
 
 - [x] 5	CSS	Avançado
 - [x] 5.1	Seletores	avançados 80
@@ -107,7 +107,7 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [ ] 5.16	Exercícios:	CSS3 transform e transition 106
 - [ ] 5.17	Para saber mais: especificidade de seletores CSS 109
 
-- CAPÍTULO SEIS
+##### CAPÍTULO SEIS
 
 - [ ] 6	Web	para	dispositivos	móveis
 - [ ] 6.1	Site	mobile	ou	mesmo	site? 113
@@ -119,7 +119,7 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [ ] 6.7	Mobile-first 124
 - [ ] 6.8	Exercícios	opcionais:	versão	tablet 125
 
-- CAPÍTULO SETE 
+##### CAPÍTULO SETE 
 
 - [ ] 7	Progressive	enhancement	e	mobile-first
 - [ ] 7.1	Formulário	de	compra 127
@@ -137,7 +137,7 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [ ] 7.13	Exercícios:	detalhes 145
 - [ ] 7.14	Exercícios	opcionais:	fundo 148
 
-- CAPÍTULO OITO 
+##### CAPÍTULO OITO 
 
 - [ ] 8	Bootstrap	e	formulários	HTML5
 - [ ] 8.1	Bootstrap	e	frameworks	de	CSS 149
@@ -157,7 +157,7 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [ ] 8.15	Exercícios	opcionais:	navbar	e	JavaScript 175
 - [ ] 8.16	Para	saber	mais:	outros	frameworks	CSS 177
 
-- CAPÍTULO NOVE 
+##### CAPÍTULO NOVE 
 
 - [ ] 9	JavaScript	e	interatividade	na	Web
 - [ ] 9.1	Porque	usamos	JavaScript? 179
@@ -181,7 +181,7 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [ ] 9.19	Para	saber	mais:	vários	callbacks	no	mesmo	elemento 200
 - [ ] 9.20	Para	saber	mais:	controlando	as	validações	HTML5 201
 
-- CAPÍTULO DEZ 
+##### CAPÍTULO DEZ 
 
 - [ ] 10	jQuery
 - [ ] 10.1	jQuery	-	A	função	$ 203
@@ -194,7 +194,7 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [ ] 10.8	Plugins	jQuery 211
 - [ ] 10.9	Exercícios:	plugin 211
 
-- CAPÍTULO ONZE 
+##### CAPÍTULO ONZE 
 
 - [ ] 11	Integrações	com	serviços	Web
 - [ ] 11.1	Web	2.0	e	integrações 213
@@ -206,7 +206,7 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [ ] 11.7	Serviços	de	web	fonts 216
 - [ ] 11.8	Exercícios:	Google	Web	Fonts 216
 
-- CAPÍTULO DOZE 
+##### CAPÍTULO DOZE 
 
 - [ ] 12	Apêndice	-	Otimizações	de	front-end
 - [ ] 12.1	HTML	e	HTTP	-	Como	funciona	a	World	Wide	Web? 219
@@ -220,7 +220,7 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [ ] 12.9	Para	saber	mais 231
 - [ ] 12.10	Exercícios:	otimizações	Web 231
 
-- CAPÍTULO TREZE 
+##### CAPÍTULO TREZE 
 
 - [ ] 13	Apêndice	-	LESS
 - [ ] 13.1	Variáveis 233
@@ -232,7 +232,7 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [ ] 13.7	Para	saber	mais:	recursos	avançados	e	alternativas 237
 - [ ] 13.8	Exercícios:	LESS 238
 
-- CAPÍTULO QUATORZE 
+##### CAPÍTULO QUATORZE 
 
 - [ ] 14	Apêndice	-	Introdução	a	PHP
 - [ ] 14.1	Libertando	o	HTML	de	suas	limitações 242
@@ -245,7 +245,7 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [ ] 14.8	Para	saber	mais:	ainda	mais	flexibilidade	com	variáveis 249
 - [ ] 14.9	Exercícios	opcionais:	variáveis	em	PHP 249
 
-- CAPÍTULO QUINZE 
+##### CAPÍTULO QUINZE 
 
 - [ ] 15	Apêndice	-	PHP:	parâmetros	e	páginas	dinâmicas
 - [ ] 15.1	Submissão	do	formulário 251
@@ -253,7 +253,7 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [ ] 15.3	Listas	de	definição	no	HTML 253
 - [ ] 15.4	Exercícios:	checkout	da	compra 253
 
-- CAPÍTULO DEZESSEIS 
+##### CAPÍTULO DEZESSEIS 
 
 - [ ] 16	Apêndice	-	PHP:	Banco	de	dados	e	SQL
 - [ ] 16.1	MySQL	e	phpMyAdmin 257
@@ -267,7 +267,7 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [ ] 16.9	Exercícios:	mais	buscas	com	PHP 263
 - [ ] 16.10	Exercícios	opcionais 265
 
-- CAPÍTULO DEZESSETE 
+##### CAPÍTULO DEZESSETE 
 
 - [ ] 17	Apêndice	-	Subindo	sua	aplicação	no	cloud
 - [ ] 17.1	Como	escolher	um	provedor 266
@@ -277,7 +277,7 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [ ] 17.5	Preparando	o	projeto 269
 - [ ] 17.6	Enviando	o	projeto	e	inicializando	servidor 270
 
-- CAPÍTULO DEZOITO 
+##### CAPÍTULO DEZOITO 
 
 - [ ] 18	Apêndice	-	Mais	integrações	com	serviços	Web
 - [ ] 18.1	Botão	de	curtir	do	Facebook 272
@@ -286,7 +286,7 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [ ] 18.4	Para	saber	mais:	Google+ 274
 - [ ] 18.5	Exercícios	opcionais:	Twitter	e	Google+ 275
 
-- Considerações finais. 
+##### Considerações finais 
 
 #### Comentários durante o desenvolvimento do projeto
 
