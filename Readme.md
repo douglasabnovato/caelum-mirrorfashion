@@ -102,8 +102,8 @@ CAPÍTULO CINCO
 - [x] 5.11	CSS3: Gradientes 98
 - [x] 5.12	Progressive	Enhancement 100
 - [x] 5.13	Exercícios:	visual	CSS3 101
-- [ ] 5.14	CSS3 Transitions 103
-- [ ] 5.15	CSS3 Transforms 104
+- [x] 5.14	CSS3 Transitions 103
+- [x] 5.15	CSS3 Transforms 104
 - [ ] 5.16	Exercícios:	CSS3 transform e transition 106
 - [ ] 5.17	Para saber mais: especificidade de seletores CSS 109
 
