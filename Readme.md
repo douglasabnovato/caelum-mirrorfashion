@@ -107,19 +107,19 @@ CAPÍTULO CINCO
 - [x] 5.16	Exercícios:	CSS3 transform e transition 106
 - [x] 5.17	Para saber mais: especificidade de seletores CSS 109
 
-- CAPÍTULO SEIS
+CAPÍTULO SEIS
 
-- [ ] 6	Web	para	dispositivos	móveis
-- [ ] 6.1	Site	mobile	ou	mesmo	site? 113
-- [ ] 6.2	CSS	media	types 116
-- [ ] 6.3	CSS3	media	queries 117
-- [ ] 6.4	Viewport 117
-- [ ] 6.5	Exercícios:	adaptações	para	mobile 119
-- [ ] 6.6	Responsive	Web	Design 124
-- [ ] 6.7	Mobile-first 124
-- [ ] 6.8	Exercícios	opcionais:	versão	tablet 125
+- [x] 6	Web	para	dispositivos	móveis
+- [x] 6.1	Site	mobile	ou	mesmo	site? 113
+- [x] 6.2	CSS	media	types 116
+- [x] 6.3	CSS3	media	queries 117
+- [x] 6.4	Viewport 117
+- [x] 6.5	Exercícios:	adaptações	para	mobile 119
+- [x] 6.6	Responsive	Web	Design 124
+- [x] 6.7	Mobile-first 124
+- [x] 6.8	Exercícios	opcionais:	versão	tablet 125
 
-- CAPÍTULO SETE
+CAPÍTULO SETE
 
 - [ ] 7	Progressive	enhancement	e	mobile-first
 - [ ] 7.1	Formulário	de	compra 127
@@ -137,7 +137,7 @@ CAPÍTULO CINCO
 - [ ] 7.13	Exercícios:	detalhes 145
 - [ ] 7.14	Exercícios	opcionais:	fundo 148
 
-- CAPÍTULO OITO 
+CAPÍTULO OITO 
 
 - [ ] 8	Bootstrap	e	formulários	HTML5
 - [ ] 8.1	Bootstrap	e	frameworks	de	CSS 149
@@ -157,7 +157,7 @@ CAPÍTULO CINCO
 - [ ] 8.15	Exercícios	opcionais:	navbar	e	JavaScript 175
 - [ ] 8.16	Para	saber	mais:	outros	frameworks	CSS 177
 
-- CAPÍTULO NOVE 
+CAPÍTULO NOVE 
 
 - [ ] 9	JavaScript	e	interatividade	na	Web
 - [ ] 9.1	Porque	usamos	JavaScript? 179
@@ -181,7 +181,7 @@ CAPÍTULO CINCO
 - [ ] 9.19	Para	saber	mais:	vários	callbacks	no	mesmo	elemento 200
 - [ ] 9.20	Para	saber	mais:	controlando	as	validações	HTML5 201
 
-- CAPÍTULO DEZ 
+CAPÍTULO DEZ 
 
 - [ ] 10	jQuery
 - [ ] 10.1	jQuery	-	A	função	$ 203
