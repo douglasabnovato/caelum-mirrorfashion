@@ -8,7 +8,7 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 
 #### Ementa
 
-- CAPÍTULO UM
+CAPÍTULO UM
 
 - [x] 1	Sobre	o	curso	-	o	complexo	mundo	do	front-end
 - [x] 1.1	O	curso	e	os	exercícios 2
@@ -18,7 +18,7 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [x] 1.5	Bibliografia 4
 - [x] 1.6	Para	onde	ir	depois? 4
 
-- CAPÍTULO DOIS
+CAPÍTULO DOIS
 
 - [x] 2	Introdução	a	HTML	e	CSS
 - [x] 2.1	Exibindo	informações	na	Web 6
@@ -49,7 +49,7 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [x] 2.26	Exercícios:	seletores	CSS	e	flutuação	de	elementos 38
 - [x] 2.27	O	futuro	e	presente	da	Web	com	o	HTML5 40
 
-- CAPÍTULO TRÊS
+CAPÍTULO TRÊS
 
 - [x] 3	HTML	semântico	e	posicionamento	no	CSS
 - [x] 3.1	O	processo	de	desenvolvimento	de	uma	tela 41
@@ -67,7 +67,7 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [x] 3.13	Para saber mais: suporte HTML5 no Internet	Explorer antigo 58
 - [x] 3.14	Exercícios	opcionais 60
 
-- CAPÍTULO QUATRO 
+CAPÍTULO QUATRO 
 
 - [x] 4	Mais	HTML	e	CSS
 - [x] 4.1	Analisando	o	miolo	da	página 61
@@ -86,7 +86,7 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [x] 4.14	Exercícios:	rodapé 77
 - [x] 4.15	Exercícios	opcionais 79
 
-- CAPÍTULO CINCO
+CAPÍTULO CINCO
 
 - [x] 5	CSS	Avançado
 - [x] 5.1	Seletores	avançados 80

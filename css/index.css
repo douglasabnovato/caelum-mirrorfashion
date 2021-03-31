@@ -215,6 +215,8 @@ header {
     margin: 10px 0;
     padding: 10px;
     width: 445px;
+    border-radius: 4px;
+    box-shadow: 1px 1px 4px #999;
 }
 
 .novidades{
@@ -237,9 +239,9 @@ header {
 .painel h2{
     font-size: 24px;
     font-weight: bold;
-    text-transform: uppercase;
-
+    text-transform: uppercase; 
     margin-bottom: 10px;
+    text-shadow: 3px 3px 2px #FFF;
 }
 
 .painel a{
