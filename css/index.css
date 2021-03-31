@@ -94,6 +94,9 @@ header {
     width: 230px; 
 
     float:	left;      
+
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
 }
 
 .busca h2,
@@ -216,15 +219,19 @@ header {
     padding: 10px;
     width: 445px;
     border-radius: 4px;
-    box-shadow: 1px 1px 4px #999;
+    box-shadow: inset 1px 1px 4px #999;
 }
 
 .novidades{
     float: left;
+    background-color: #f5dcdc;
+    background: linear-gradient(#F5DCDC, #BEBEF4);
 }
 
 .mais-vendidos{
-    float: right;
+    float: right;    
+    background-color: #dcdcf5;
+    background: linear-gradient(#DCDCF5, #F4BEBE);
 }
 
 .painel li{
@@ -241,7 +248,7 @@ header {
     font-weight: bold;
     text-transform: uppercase; 
     margin-bottom: 10px;
-    text-shadow: 3px 3px 2px #FFF;
+    text-shadow: 3px 3px 2px #FFF rgba(255,255,255,0.8);
 }
 
 .painel a{
@@ -249,15 +256,8 @@ header {
     font-size: 14px;
     text-align: center;
     text-decoration: none;
-}
-
-.novidades {
-    background-color: #f5dcdc;
-}
-
-.mais-vendidos{
-    background-color: #dcdcf5;
-}
+} 
+ 
 
 /* FIM - Paineis Flutuantes */
 
