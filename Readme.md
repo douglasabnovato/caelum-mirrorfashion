@@ -64,7 +64,7 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [x] 3.10	Exercícios:	reset	e	display 54
 - [x] 3.11	Position:	static,	relative,	absolute 55
 - [x] 3.12	Exercícios:	posicionamento 58
-- [x] 3.13	Para	saber	mais:	suporte	HTML5	no	Internet	Explorer	antigo - [ ] 58
+- [x] 3.13	Para saber mais: suporte HTML5 no Internet	Explorer antigo 58
 - [x] 3.14	Exercícios	opcionais 60
 
 - CAPÍTULO QUATRO 
@@ -99,8 +99,8 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 - [x] 5.8	CSS3: box-shadow 93
 - [x] 5.9	Opacidade e RGBA 95
 - [x] 5.10	Prefixos 99
-- [ ] 5.11	CSS3: Gradientes 98
-- [ ] 5.12	Progressive	Enhancement 100
+- [x] 5.11	CSS3: Gradientes 98
+- [x] 5.12	Progressive	Enhancement 100
 - [ ] 5.13	Exercícios:	visual	CSS3 101
 - [ ] 5.14	CSS3 Transitions 103
 - [ ] 5.15	CSS3 Transforms 104
