@@ -238,8 +238,10 @@ header {
     display: inline-block;
     vertical-align: top;
     width: 150px;
+
     margin: 2px;
     padding-bottom: 10px;
+
     transition: 0.7s;
 }
 
@@ -258,6 +260,7 @@ header {
     font-size: 24px;
     font-weight: bold;
     text-transform: uppercase; 
+
     margin-bottom: 10px;
     text-shadow: 3px 3px 2px #FFF rgba(255,255,255,0.8);
 }
@@ -268,6 +271,11 @@ header {
     text-align: center;
     text-decoration: none;
 }  
+
+figure {
+    margin: 10px;
+    padding-right: 30px;
+} 
 
 /* FIM - Paineis Flutuantes */
 
