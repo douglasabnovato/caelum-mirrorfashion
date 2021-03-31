@@ -121,11 +121,11 @@ CAPÍTULO SEIS
 
 CAPÍTULO SETE
 
-- [ ] 7	Progressive	enhancement	e	mobile-first
-- [ ] 7.1	Formulário	de	compra 127
-- [ ] 7.2	Exercícios:	formulário	da	página	de	produto 130
-- [ ] 7.3	Design	mobile-first 131
-- [ ] 7.4	Progressive	enhancement 132
+- [x] 7	Progressive	enhancement	e	mobile-first
+- [x] 7.1	Formulário	de	compra 127
+- [x] 7.2	Exercícios:	formulário	da	página	de	produto 130
+- [x] 7.3	Design	mobile-first 131
+- [x] 7.4	Progressive	enhancement 132
 - [ ] 7.5	Box	model	e	box-sizing 133
 - [ ] 7.6	Exercícios:	página	de	produto 134
 - [ ] 7.7	Evoluindo	o	design	para	desktop 138
