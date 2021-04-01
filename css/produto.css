@@ -183,6 +183,18 @@ label[for=azul]::after	{
 
 /* FIM - Main */
 
+/* Media Queries - min-width: 600px */
+
+@media (min-width: 600px){
+
+    img{
+        float: left;
+    }
+    
+}
+
+/* Media Queries */
+
 /* INÍCIO - rodapé */
 
 footer{
