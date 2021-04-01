@@ -127,7 +127,7 @@ CAPÍTULO SETE
 - [x] 7.3	Design	mobile-first 131
 - [x] 7.4	Progressive	enhancement 132
 - [x] 7.5	Box	model	e	box-sizing 133
-- [ ] 7.6	Exercícios:	página	de	produto 134
+- [x] 7.6	Exercícios:	página	de	produto 134
 - [ ] 7.7	Evoluindo	o	design	para	desktop 138
 - [ ] 7.8	Media	queries	de	conteúdo 139
 - [ ] 7.9	Exercícios:	responsive	design 140
