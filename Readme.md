@@ -144,13 +144,13 @@ CAPÍTULO OITO
 - [x] 8.2	Estilo	e	componentes	base 150
 - [x] 8.3	A	página	de	checkout	da	Mirror	Fashion 150
 - [x] 8.4	Exercícios:	página	de	checkout 152
-- [ ] 8.5	Formulários	a	fundo 155
-- [ ] 8.6	Novos	componentes	do	HTML5 159
-- [ ] 8.7	Novos	atributos	HTML5	em	elementos	de	formulário 163
-- [ ] 8.8	Ícones 165
-- [ ] 8.9	Exercícios:	Formulários 166
-- [ ] 8.10	Validação	HTML5 168
-- [ ] 8.11	Exercícios:	validação	com	HTML5 170
+- [x] 8.5	Formulários	a	fundo 155
+- [x] 8.6	Novos	componentes	do	HTML5 159
+- [x] 8.7	Novos	atributos	HTML5	em	elementos	de	formulário 163
+- [x] 8.8	Ícones 165
+- [x] 8.9	Exercícios:	Formulários 166
+- [x] 8.10	Validação	HTML5 168
+- [x] 8.11	Exercícios:	validação	com	HTML5 170
 - [ ] 8.12	Grid	responsivo	do	Bootstrap 170
 - [ ] 8.13	Exercícios:	grids 172
 - [ ] 8.14	Para	saber	mais:	componentes	JS	do	Bootstrap 175
@@ -746,8 +746,11 @@ Tudo	responsivo	e	mobile-first
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
 ````
 
-60. Utilizar os elementos da documentação a seguir
+60. Ícones:
+Utilizar os elementos da documentação a seguir
 https://getbootstrap.com/docs/4.0/components/jumbotron/
+
+61. Font Awesome, Iconic, Octicons
 
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)<br/>
