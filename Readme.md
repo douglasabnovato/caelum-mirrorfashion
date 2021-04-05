@@ -132,7 +132,7 @@ CAPÍTULO SETE
 - [x] 7.8	Media	queries	de	conteúdo 139
 - [x] 7.9	Exercícios:	responsive	design 140
 - [x] 7.10	HTML5	Input	range 142
-- [ ] 7.11	Exercícios:	seletor	de	tamanho 143 - doing
+- [x] 7.11	Exercícios:	seletor	de	tamanho 143 - doing
 - [ ] 7.12	Tabelas 144
 - [ ] 7.13	Exercícios:	detalhes 145
 - [ ] 7.14	Exercícios	opcionais:	fundo 148
