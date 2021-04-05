@@ -298,6 +298,36 @@ footer img{
         margin-right: 10px;
     }
 
+    fieldset {
+        display: inline-block;
+        vertical-align: top;
+        margin: 1em 0;
+        min-width: 240px;
+        width: 45%;
+    }
+
 }
 
 /* Media Queries */
+
+.detalhes {
+    padding: 2em 0;
+}
+
+.detalhes h2{    
+    font-size: 1.5em;
+    line-height: 2;
+}
+
+.detalhes p{
+    margin: 1em 0;
+    font-size: 1em;
+    line-height: 1.5;
+    max-width: 36em;
+}
+
+@media (min-width: 500px) {
+    .detalhes {
+        font-size: 1.2em;
+    }
+}
