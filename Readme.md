@@ -194,7 +194,7 @@ CAPÍTULO DEZ
 - [ ] 10.8	Plugins	jQuery 211
 - [ ] 10.9	Exercícios:	plugin 211
 
-- CAPÍTULO ONZE 
+CAPÍTULO ONZE 
 
 - [ ] 11	Integrações	com	serviços	Web
 - [ ] 11.1	Web	2.0	e	integrações 213
@@ -206,7 +206,7 @@ CAPÍTULO DEZ
 - [ ] 11.7	Serviços	de	web	fonts 216
 - [ ] 11.8	Exercícios:	Google	Web	Fonts 216
 
-- CAPÍTULO DOZE 
+CAPÍTULO DOZE 
 
 - [ ] 12	Apêndice	-	Otimizações	de	front-end
 - [ ] 12.1	HTML	e	HTTP	-	Como	funciona	a	World	Wide	Web? 219
@@ -220,7 +220,7 @@ CAPÍTULO DEZ
 - [ ] 12.9	Para	saber	mais 231
 - [ ] 12.10	Exercícios:	otimizações	Web 231
 
-- CAPÍTULO TREZE 
+CAPÍTULO TREZE 
 
 - [ ] 13	Apêndice	-	LESS
 - [ ] 13.1	Variáveis 233
@@ -232,7 +232,7 @@ CAPÍTULO DEZ
 - [ ] 13.7	Para	saber	mais:	recursos	avançados	e	alternativas 237
 - [ ] 13.8	Exercícios:	LESS 238
 
-- CAPÍTULO QUATORZE 
+CAPÍTULO QUATORZE 
 
 - [ ] 14	Apêndice	-	Introdução	a	PHP
 - [ ] 14.1	Libertando	o	HTML	de	suas	limitações 242
@@ -245,7 +245,7 @@ CAPÍTULO DEZ
 - [ ] 14.8	Para	saber	mais:	ainda	mais	flexibilidade	com	variáveis 249
 - [ ] 14.9	Exercícios	opcionais:	variáveis	em	PHP 249
 
-- CAPÍTULO QUINZE 
+CAPÍTULO QUINZE 
 
 - [ ] 15	Apêndice	-	PHP:	parâmetros	e	páginas	dinâmicas
 - [ ] 15.1	Submissão	do	formulário 251
@@ -253,7 +253,7 @@ CAPÍTULO DEZ
 - [ ] 15.3	Listas	de	definição	no	HTML 253
 - [ ] 15.4	Exercícios:	checkout	da	compra 253
 
-- CAPÍTULO DEZESSEIS 
+CAPÍTULO DEZESSEIS 
 
 - [ ] 16	Apêndice	-	PHP:	Banco	de	dados	e	SQL
 - [ ] 16.1	MySQL	e	phpMyAdmin 257
@@ -267,7 +267,7 @@ CAPÍTULO DEZ
 - [ ] 16.9	Exercícios:	mais	buscas	com	PHP 263
 - [ ] 16.10	Exercícios	opcionais 265
 
-- CAPÍTULO DEZESSETE 
+CAPÍTULO DEZESSETE 
 
 - [ ] 17	Apêndice	-	Subindo	sua	aplicação	no	cloud
 - [ ] 17.1	Como	escolher	um	provedor 266
@@ -277,7 +277,7 @@ CAPÍTULO DEZ
 - [ ] 17.5	Preparando	o	projeto 269
 - [ ] 17.6	Enviando	o	projeto	e	inicializando	servidor 270
 
-- CAPÍTULO DEZOITO 
+CAPÍTULO DEZOITO 
 
 - [ ] 18	Apêndice	-	Mais	integrações	com	serviços	Web
 - [ ] 18.1	Botão	de	curtir	do	Facebook 272
