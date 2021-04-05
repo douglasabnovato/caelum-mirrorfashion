@@ -143,7 +143,7 @@ CAPÍTULO OITO
 - [x] 8.1	Bootstrap	e	frameworks	de	CSS 149
 - [x] 8.2	Estilo	e	componentes	base 150
 - [x] 8.3	A	página	de	checkout	da	Mirror	Fashion 150
-- [ ] 8.4	Exercícios:	página	de	checkout 152
+- [x] 8.4	Exercícios:	página	de	checkout 152
 - [ ] 8.5	Formulários	a	fundo 155
 - [ ] 8.6	Novos	componentes	do	HTML5 159
 - [ ] 8.7	Novos	atributos	HTML5	em	elementos	de	formulário 163
@@ -745,6 +745,10 @@ Tudo	responsivo	e	mobile-first
 <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
 ````
+
+60. Utilizar os elementos da documentação a seguir
+https://getbootstrap.com/docs/4.0/components/jumbotron/
+
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)<br/>
 . De [Caelum - Apostilas - Web](https://www.caelum.com.br/apostilas)
