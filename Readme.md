@@ -151,7 +151,7 @@ CAPÍTULO OITO
 - [x] 8.9	Exercícios:	Formulários 166
 - [x] 8.10	Validação	HTML5 168
 - [x] 8.11	Exercícios:	validação	com	HTML5 170
-- [ ] 8.12	Grid	responsivo	do	Bootstrap 170
+- [x] 8.12	Grid responsivo do Bootstrap 170
 - [ ] 8.13	Exercícios:	grids 172
 - [ ] 8.14	Para	saber	mais:	componentes	JS	do	Bootstrap 175
 - [ ] 8.15	Exercícios	opcionais:	navbar	e	JavaScript 175

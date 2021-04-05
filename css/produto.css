@@ -368,3 +368,7 @@ td:first-child {
 .cores label img{
     border: 2px solid #ccc;
 }
+
+.form-control:invalid	{
+    border: 1px	solid #CC0000;
+}
