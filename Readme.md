@@ -139,10 +139,10 @@ CAPÍTULO SETE
 
 CAPÍTULO OITO 
 
-- [ ] 8	Bootstrap	e	formulários	HTML5
-- [ ] 8.1	Bootstrap	e	frameworks	de	CSS 149
-- [ ] 8.2	Estilo	e	componentes	base 150
-- [ ] 8.3	A	página	de	checkout	da	Mirror	Fashion 150
+- [x] 8	Bootstrap	e	formulários	HTML5
+- [x] 8.1	Bootstrap	e	frameworks	de	CSS 149
+- [x] 8.2	Estilo	e	componentes	base 150
+- [x] 8.3	A	página	de	checkout	da	Mirror	Fashion 150
 - [ ] 8.4	Exercícios:	página	de	checkout 152
 - [ ] 8.5	Formulários	a	fundo 155
 - [ ] 8.6	Novos	componentes	do	HTML5 159
@@ -730,6 +730,15 @@ Para isso, alterar todos os parágrafos que não estão no meio do texto, ou sej
 -o- "Opera"
 ````
 Existe uma tabela de compatibilidade para consultar qual navegador suporta qual propriedade.
+
+58. Recursos do Bootstrap 
+Reset	CSS
+Estilo	visual	base	pra	maioria	das	tags
+Ícones
+Grids	prontos	pra	uso
+Componentes	CSS
+Plugins	JavaScript
+Tudo	responsivo	e	mobile-first
 
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)<br/>
