@@ -155,7 +155,7 @@ CAPÍTULO OITO
 - [x] 8.13	Exercícios:	grids 172
 - [x] 8.14	Para	saber	mais:	componentes	JS	do	Bootstrap 175
 - [x] 8.15	Exercícios	opcionais:	navbar	e	JavaScript 175
-- [ ] 8.16	Para	saber	mais:	outros	frameworks	CSS 177
+- [x] 8.16	Para	saber	mais:	outros	frameworks	CSS 177
 
 CAPÍTULO NOVE 
 
