@@ -159,12 +159,12 @@ CAPÍTULO OITO
 
 CAPÍTULO NOVE 
 
-- [ ] 9	JavaScript	e	interatividade	na	Web
-- [ ] 9.1	Porque	usamos	JavaScript? 179
-- [ ] 9.2	Um	pouquinho	da	história	do	JavaScript 180
-- [ ] 9.3	Características	da	linguagem 181
-- [ ] 9.4	Console	do	navegador 181
-- [ ] 9.5	Sintaxe	básica 182
+- [x] 9	JavaScript	e	interatividade	na	Web
+- [x] 9.1	Porque	usamos	JavaScript? 179
+- [x] 9.2	Um	pouquinho	da	história	do	JavaScript 180
+- [x] 9.3	Características	da	linguagem 181
+- [x] 9.4	Console	do	navegador 181
+- [x] 9.5	Sintaxe	básica 182
 - [ ] 9.6	A	tag	script 184
 - [ ] 9.7	DOM:	sua	página	no	mundo	JavaScript 185
 - [ ] 9.8	Funções	e	os	eventos	do	DOM 187
