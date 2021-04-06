@@ -168,11 +168,11 @@ CAPÍTULO NOVE
 - [x] 9.6	A	tag	script 184
 - [x] 9.7	DOM:	sua	página	no	mundo	JavaScript 185
 - [x] 9.8	Funções	e	os	eventos	do	DOM 187
-- [ ] 9.9	Exercícios:	mostrando	tamanho	do	produto	com	javascript 188
-- [ ] 9.10	Funções	Anônimas 190
-- [ ] 9.11	Manipulando	strings 191
-- [ ] 9.12	Manipulando	números 192
-- [ ] 9.13	Concatenações 192
+- [x] 9.9	Exercícios:	mostrando	tamanho	do	produto	com	javascript 188
+- [x] 9.10	Funções	Anônimas 190
+- [x] 9.11	Manipulando	strings 191
+- [x] 9.12	Manipulando	números 192
+- [x] 9.13	Concatenações 192
 - [ ] 9.14	Exercícios:	Calculando	o	total	da	compra 193
 - [ ] 9.15	Array 195
 - [ ] 9.16	Blocos	de	Repetição 196
