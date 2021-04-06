@@ -308,7 +308,7 @@ footer img{
 
 }
 
-/* Media Queries */
+/* FIM - Media Queries */
 
 .detalhes {
     padding: 2em 0;
@@ -337,11 +337,11 @@ table {
     border-collapse: separate;
 }
 
-thead{
+thead {
     background-color: #999;
 }
 
-thead th{
+thead th {
     font-weight: bold;
     padding: 0.3em 1em;
     text-align: center;
@@ -351,7 +351,7 @@ td {
     padding: 0.3em;
 }
 
-tr:nth-child(2n){
+tr:nth-child(2n) {
     background-color: #ccc;
 }
 
@@ -359,7 +359,7 @@ td:first-child {
     font-style:italic;
 }
 
-.produto-back{
+.produto-back {
     background-color: #f2f2f2;
     margin-top: 1em;
     border-top: 2px solid #ccc;
@@ -369,6 +369,17 @@ td:first-child {
     border: 2px solid #ccc;
 }
 
-.form-control:invalid	{
+.form-control:invalid {
     border: 1px	solid #CC0000;
+}
+
+.tamanhos {
+    display: inline-block;
+    height: 44px;
+    width: 44px;
+    line-height: 44px;
+    text-align:	center;
+    border: 3px	solid	#666;
+    border-radius: 50%;
+    color: #555;
 }

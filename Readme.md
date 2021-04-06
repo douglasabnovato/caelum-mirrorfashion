@@ -165,9 +165,9 @@ CAPÍTULO NOVE
 - [x] 9.3	Características	da	linguagem 181
 - [x] 9.4	Console	do	navegador 181
 - [x] 9.5	Sintaxe	básica 182
-- [ ] 9.6	A	tag	script 184
-- [ ] 9.7	DOM:	sua	página	no	mundo	JavaScript 185
-- [ ] 9.8	Funções	e	os	eventos	do	DOM 187
+- [x] 9.6	A	tag	script 184
+- [x] 9.7	DOM:	sua	página	no	mundo	JavaScript 185
+- [x] 9.8	Funções	e	os	eventos	do	DOM 187
 - [ ] 9.9	Exercícios:	mostrando	tamanho	do	produto	com	javascript 188
 - [ ] 9.10	Funções	Anônimas 190
 - [ ] 9.11	Manipulando	strings 191
