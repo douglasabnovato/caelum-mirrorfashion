@@ -173,11 +173,11 @@ CAPÍTULO NOVE
 - [x] 9.11	Manipulando	strings 191
 - [x] 9.12	Manipulando	números 192
 - [x] 9.13	Concatenações 192
-- [ ] 9.14	Exercícios:	Calculando	o	total	da	compra 193
-- [ ] 9.15	Array 195
-- [ ] 9.16	Blocos	de	Repetição 196
-- [ ] 9.17	Funções	temporais 197
-- [ ] 9.18	Exercícios	opcionais:	banner	rotativo 198
+- [x] 9.14	Exercícios:	Calculando	o	total	da	compra 193: erro : NaN
+- [x] 9.15	Array 195
+- [x] 9.16	Blocos	de	Repetição 196
+- [x] 9.17	Funções	temporais 197
+- [x] 9.18	Exercícios	opcionais:	banner	rotativo 198
 - [ ] 9.19	Para	saber	mais:	vários	callbacks	no	mesmo	elemento 200
 - [ ] 9.20	Para	saber	mais:	controlando	as	validações	HTML5 201
 
