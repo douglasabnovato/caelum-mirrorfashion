@@ -196,12 +196,12 @@ CAPÍTULO DEZ
 
 CAPÍTULO ONZE 
 
-- [ ] 11	Integrações	com	serviços	Web
-- [ ] 11.1	Web	2.0	e	integrações 213
-- [ ] 11.2	iframes 213
-- [ ] 11.3	Vídeo	embutido	com	YouTube 214
-- [ ] 11.4	Exercícios:	iframe 214
-- [ ] 11.5	Exercícios	opcionais:	Google	Maps 214
+- [x] 11	Integrações	com	serviços	Web
+- [x] 11.1	Web	2.0	e	integrações 213
+- [x] 11.2	iframes 213
+- [x] 11.3	Vídeo	embutido	com	YouTube 214
+- [x] 11.4	Exercícios:	iframe 214
+- [x] 11.5	Exercícios	opcionais:	Google	Maps 214
 - [ ] 11.6	Fontes	customizadas	com	@font-face 215
 - [ ] 11.7	Serviços	de	web	fonts 216
 - [ ] 11.8	Exercícios:	Google	Web	Fonts 216

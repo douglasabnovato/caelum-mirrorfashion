@@ -101,6 +101,20 @@ p.textos{
     text-align: left;
     background-color: #fffcfc
 }
+
+.loja-mirror{/* box de todas as figuras */
+    background-color: #F2EDED;
+    border: 1px	solid #ccc;
+    text-align:	center;
+    padding: 15px;
+    margin-bottom: 12px;
+}
+
+.loja-mirror span{
+    font-style: italic;
+    padding: 3px;
+    margin: 1px;
+}
 /* FIM - Introdução */
 
 /* INÍCIO - História */
@@ -110,12 +124,6 @@ p.textos{
     margin: 0 10px 20px 30px;
 }
 
-figure{/* box de todas as figuras */
-    background-color: #F2EDED;
-    border: 1px	solid #ccc;
-    text-align:	center;
-    padding: 15px;
-}
 
 figcaption{/* legenda de todas as figuras */
     font-style: italic;

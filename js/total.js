@@ -15,7 +15,3 @@ $input_quantidade.oninput = function() {
     $output_total.value = total;  
 }  
 
-$(document).ready(function(){
-    $('.numero-cartao').mask('9999 9999 9999 9999 - 999');
-    $('.cpf').mask('999.999.999-99')
-});  
