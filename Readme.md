@@ -178,8 +178,8 @@ CAPÍTULO NOVE
 - [x] 9.16	Blocos	de	Repetição 196
 - [x] 9.17	Funções	temporais 197
 - [x] 9.18	Exercícios	opcionais:	banner	rotativo 198
-- [ ] 9.19	Para	saber	mais:	vários	callbacks	no	mesmo	elemento 200
-- [ ] 9.20	Para	saber	mais:	controlando	as	validações	HTML5 201
+- [x] 9.19	Para	saber	mais:	vários	callbacks	no	mesmo	elemento 200
+- [x] 9.20	Para	saber	mais:	controlando	as	validações	HTML5 201
 
 CAPÍTULO DEZ 
 
