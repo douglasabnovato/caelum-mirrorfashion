@@ -1,10 +1,125 @@
-### Mirror Fashion
+<h1 align="center">
+    <img alt="mirror-fashion" title="#mirror-fashion" src="/img/tela-home-2.jpg"/>
+</h1>
+
+<h4 align="center"> 
+	🚧 Site Mirror Fashion  🚀 em construção... 🚧
+</h4> 
+
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/douglasabnovato/mirror-fashion?color=%2304D361">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/douglasabnovato/mirror-fashion">
+  <a href="https://www.twitter.com/douglasabnovato/">
+    <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%douglasabnovato%2Fmirror-fashion">
+  </a>
+</p>
+
+## 💻 Sobre o projeto
+
+♻️ Site Mirror Fashion
 
 O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design já pronto, assim como os textos e então, codificar o HTML e CSS necessário para o resultado final do site.
 
 - Acesso ao design final em formato de imagem
 - Página web em HTML CSS.
 - Ferramentas: Google Chrome, VSCode, Git Bash
+ 
+## 🎨 Layout
+
+Uma aplicação responsiva com as tecnologias fundamentais do desenvolvimento web.
+
+### Web - v1.0
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="mirror-fashion" title="#mirror-fashion" src="/img/tela-home-2.jpg" width="400px">
+  <img alt="mirror-fashion" title="#mirror-fashion" src="/img/tela-home-1.jpg" width="400px">
+  <img alt="mirror-fashion" title="#mirror-fashion" src="/img/tela-produto.jpg" width="400px">
+  <img alt="mirror-fashion" title="#mirror-fashion" src="/img/tela-about.jpg" width="400px">
+  <img alt="mirror-fashion" title="#mirror-fashion" src="/img/tela-checkout.jpg" width="400px">
+</p>
+
+### Web - Próximo Passo 
+
+- deploy da aplicação
+
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Css][css]: posicionamento, dimensionamento e muito mais
+- [Javascript][javascript]
+- [HTML][html]: estrutura e efeitos 
+- [Git][git]
+- [Github][github] 
+
+## 🚀 Como executar o projeto
+
+Podemos considerar este projeto como sendo com uma parte:
+1. Front End (pasta web)  
+
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com)
+Além disto, é bom ter um editor para trabalhar com o código como [VSCode][vscode]
+
+### 🧭 Rodando a aplicação web (Front End)
+
+```bash 
+# Clone este repositório
+$ git clone https://github.com/douglasabnovato/mirror-fashion
+
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd mirror-fashion
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento com botão direito no arquivo index.html
+$ Open with Live Server
+
+# A aplicação será aberta na porta:5500 - acesse http://localhost:5500
+
+```
+
+## 😯 Como contribuir para o projeto
+
+1. Faça um **fork** do projeto.
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as suas alterações: `git push origin my-feature`
+> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
+
+
+## 📝 Licença
+
+Este projeto esta sobe a licença MIT.
+
+Feito com ❤️ por Douglas A B Novato 👋🏽 [Entre em contato!](https://www.linkedin.com/in/douglasabnovato/)
+
+[git]: https://git-scm.com/doc
+[github]: https://docs.github.com/en
+[nodejs]: https://nodejs.org/
+[typescript]: https://www.typescriptlang.org/
+[expo]: https://expo.io/
+[reactjs]: https://reactjs.org
+[rn]: https://facebook.github.io/react-native/
+[yarn]: https://yarnpkg.com/
+[vscode]: https://code.visualstudio.com/
+[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+[license]: https://opensource.org/licenses/MIT
+[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+[prettier]: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+[rs]: https://rocketseat.com.br 
+[css]: https://developer.mozilla.org/en-US/docs/Web/CSS 
+[html]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript 
+
+Fonte - [DESENVOLVIMENTO WEB COM HTML, CSS E JAVASCRIPT](https://www.caelum.com.br/apostila-html-css-javascript/)
+
+### Mirror Fashion
+
+
 
 #### Ementa
 
