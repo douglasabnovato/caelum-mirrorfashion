@@ -202,9 +202,11 @@ CAPÍTULO ONZE
 - [x] 11.3	Vídeo	embutido	com	YouTube 214
 - [x] 11.4	Exercícios:	iframe 214
 - [x] 11.5	Exercícios	opcionais:	Google	Maps 214
-- [ ] 11.6	Fontes	customizadas	com	@font-face 215
-- [ ] 11.7	Serviços	de	web	fonts 216
-- [ ] 11.8	Exercícios:	Google	Web	Fonts 216
+- [x] 11.6	Fontes	customizadas	com	@font-face 215
+- [x] 11.7	Serviços	de	web	fonts 216
+- [x] 11.8	Exercícios:	Google	Web	Fonts 216
+
+APÊNDICES
 
 CAPÍTULO DOZE 
 
