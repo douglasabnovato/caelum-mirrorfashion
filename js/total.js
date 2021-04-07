@@ -13,4 +13,9 @@ $input_quantidade.oninput = function() {
     total = "R$" + total.toFixed(2);
     total = total.replace(".", ","); 
     $output_total.value = total;  
-} 
+}  
+
+$(document).ready(function(){
+    $('.numero-cartao').mask('9999 9999 9999 9999 - 999');
+    $('.cpf').mask('999.999.999-99')
+});  
