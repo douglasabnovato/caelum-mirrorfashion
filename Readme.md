@@ -192,7 +192,7 @@ CAPÍTULO DEZ
 - [x] 10.6	Mais	produtos	na	home 207
 - [x] 10.7	Exercícios:	jQuery	na	home 208
 - [x] 10.8	Plugins	jQuery 211
-- [ ] 10.9	Exercícios:	plugin 211
+- [x] 10.9	Exercícios:	plugin 211
 
 CAPÍTULO ONZE 
 

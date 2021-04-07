@@ -13,4 +13,4 @@ $input_quantidade.oninput = function() {
     total = "R$" + total.toFixed(2);
     total = total.replace(".", ","); 
     $output_total.value = total;  
-}
+} 
