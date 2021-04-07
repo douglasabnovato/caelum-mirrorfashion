@@ -173,7 +173,7 @@ CAPÍTULO NOVE
 - [x] 9.11	Manipulando	strings 191
 - [x] 9.12	Manipulando	números 192
 - [x] 9.13	Concatenações 192
-- [x] 9.14	Exercícios:	Calculando	o	total	da	compra 193: erro : NaN
+- [x] 9.14	Exercícios:	Calculando	o	total	da	compra 193 ** error : NaN
 - [x] 9.15	Array 195
 - [x] 9.16	Blocos	de	Repetição 196
 - [x] 9.17	Funções	temporais 197
@@ -183,15 +183,15 @@ CAPÍTULO NOVE
 
 CAPÍTULO DEZ 
 
-- [ ] 10	jQuery
-- [ ] 10.1	jQuery	-	A	função	$ 203
-- [ ] 10.2	jQuery	Selectors 204
-- [ ] 10.3	Filtros	customizados	e	por	DOM 205
-- [ ] 10.4	Utilitário	de	iteração	do	jQuery 205
-- [ ] 10.5	Características	de	execução 206
-- [ ] 10.6	Mais	produtos	na	home 207
-- [ ] 10.7	Exercícios:	jQuery	na	home 208
-- [ ] 10.8	Plugins	jQuery 211
+- [x] 10	jQuery
+- [x] 10.1	jQuery	-	A	função	$ 203
+- [x] 10.2	jQuery	Selectors 204
+- [x] 10.3	Filtros	customizados	e	por	DOM 205
+- [x] 10.4	Utilitário	de	iteração	do	jQuery 205
+- [x] 10.5	Características	de	execução 206
+- [x] 10.6	Mais	produtos	na	home 207
+- [x] 10.7	Exercícios:	jQuery	na	home 208
+- [x] 10.8	Plugins	jQuery 211
 - [ ] 10.9	Exercícios:	plugin 211
 
 CAPÍTULO ONZE 
