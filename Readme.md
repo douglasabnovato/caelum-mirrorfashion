@@ -210,11 +210,11 @@ APÊNDICES
 
 CAPÍTULO DOZE 
 
-- [ ] 12	Apêndice	-	Otimizações	de	front-end
-- [ ] 12.1	HTML	e	HTTP	-	Como	funciona	a	World	Wide	Web? 219
-- [ ] 12.2	Princípios	de	programação	distribuída 221
-- [ ] 12.3	Ferramentas	de	diagnóstico	-	YSlow	e	PageSpeed 222
-- [ ] 12.4	Compressão	e	minificação	de	CSS	e	JavaScript 223
+- [x] 12	Apêndice	-	Otimizações	de	front-end
+- [x] 12.1	HTML	e	HTTP	-	Como	funciona	a	World	Wide	Web? 219
+- [x] 12.2	Princípios	de	programação	distribuída 221
+- [x] 12.3	Ferramentas	de	diagnóstico	-	YSlow	e	PageSpeed 222
+- [x] 12.4	Compressão	e	minificação	de	CSS	e	JavaScript 223
 - [ ] 12.5	Compressão	de	imagens 224
 - [ ] 12.6	Diminuir	o	número	de	requests 226
 - [ ] 12.7	Juntar	arquivos	CSS	e	JS 227
