@@ -224,71 +224,69 @@ CAPÍTULO DOZE
 
 CAPÍTULO TREZE 
 
-- [ ] 13	Apêndice	-	LESS
-- [ ] 13.1	Variáveis 233
-- [ ] 13.2	Contas 234
-- [ ] 13.3	Hierarquia 235
-- [ ] 13.4	Funções	de	cores	e	palhetas	automáticas 235
-- [ ] 13.5	Reaproveitamento	com	mixins 236
-- [ ] 13.6	Executando	o	LESS 237
-- [ ] 13.7	Para	saber	mais:	recursos	avançados	e	alternativas 237
-- [ ] 13.8	Exercícios:	LESS 238
+- [x] 13	Apêndice	-	LESS
+- [x] 13.1	Variáveis 233
+- [x] 13.2	Contas 234
+- [x] 13.3	Hierarquia 235
+- [x] 13.4	Funções	de	cores	e	palhetas	automáticas 235
+- [x] 13.5	Reaproveitamento	com	mixins 236
+- [x] 13.6	Executando	o	LESS 237
+- [x] 13.7	Para	saber	mais:	recursos	avançados	e	alternativas 237
+- [x] 13.8	Exercícios:	LESS 238
 
 CAPÍTULO QUATORZE 
 
-- [ ] 14	Apêndice	-	Introdução	a	PHP
-- [ ] 14.1	Libertando	o	HTML	de	suas	limitações 242
-- [ ] 14.2	Como	funciona	um	servidor	HTTP 243
-- [ ] 14.3	Como	funciona	o	PHP	no	servidor 243
-- [ ] 14.4	Para	saber	mais:	instalação	do	PHP	em	casa 244
-- [ ] 14.5	Exercícios:	executando	o	PHP 245
-- [ ] 14.6	Reaproveitamento	de	código	com	include 246
-- [ ] 14.7	Exercícios:	include 247
-- [ ] 14.8	Para	saber	mais:	ainda	mais	flexibilidade	com	variáveis 249
-- [ ] 14.9	Exercícios	opcionais:	variáveis	em	PHP 249
+- [x] 14	Apêndice	-	Introdução	a	PHP
+- [x] 14.1	Libertando	o	HTML	de	suas	limitações 242
+- [x] 14.2	Como	funciona	um	servidor	HTTP 243
+- [x] 14.3	Como	funciona	o	PHP	no	servidor 243
+- [x] 14.4	Para	saber	mais:	instalação	do	PHP	em	casa 244
+- [x] 14.5	Exercícios:	executando	o	PHP 245
+- [x] 14.6	Reaproveitamento	de	código	com	include 246
+- [x] 14.7	Exercícios:	include 247
+- [x] 14.8	Para	saber	mais:	ainda	mais	flexibilidade	com	variáveis 249
+- [x] 14.9	Exercícios	opcionais:	variáveis	em	PHP 249
 
 CAPÍTULO QUINZE 
 
-- [ ] 15	Apêndice	-	PHP:	parâmetros	e	páginas	dinâmicas
-- [ ] 15.1	Submissão	do	formulário 251
-- [ ] 15.2	Parâmetros	com	PHP 252
-- [ ] 15.3	Listas	de	definição	no	HTML 253
-- [ ] 15.4	Exercícios:	checkout	da	compra 253
+- [x] 15	Apêndice	-	PHP:	parâmetros	e	páginas	dinâmicas
+- [x] 15.1	Submissão	do	formulário 251
+- [x] 15.2	Parâmetros	com	PHP 252
+- [x] 15.3	Listas	de	definição	no	HTML 253
+- [x] 15.4	Exercícios:	checkout	da	compra 253
 
 CAPÍTULO DEZESSEIS 
 
-- [ ] 16	Apêndice	-	PHP:	Banco	de	dados	e	SQL
-- [ ] 16.1	MySQL	e	phpMyAdmin 257
-- [ ] 16.2	Para	saber	mais:	instalação	do	MySQL	em	casa 258
-- [ ] 16.3	Buscas	no	MySQL	com	PHP 258
-- [ ] 16.4	Refinando	as	buscas	com	WHERE 259
-- [ ] 16.5	Exercícios:	phpMyAdmin 260
-- [ ] 16.6	Exercícios:	PHP	com	MySQL 261
-- [ ] 16.7	Busca	de	muitos	resultados 262
-- [ ] 16.8	Ordenação	dos	resultados 263
-- [ ] 16.9	Exercícios:	mais	buscas	com	PHP 263
-- [ ] 16.10	Exercícios	opcionais 265
+- [x] 16	Apêndice	-	PHP:	Banco	de	dados	e	SQL
+- [x] 16.1	MySQL	e	phpMyAdmin 257
+- [x] 16.2	Para	saber	mais:	instalação	do	MySQL	em	casa 258
+- [x] 16.3	Buscas	no	MySQL	com	PHP 258
+- [x] 16.4	Refinando	as	buscas	com	WHERE 259
+- [x] 16.5	Exercícios:	phpMyAdmin 260
+- [x] 16.6	Exercícios:	PHP	com	MySQL 261
+- [x] 16.7	Busca	de	muitos	resultados 262
+- [x] 16.8	Ordenação	dos	resultados 263
+- [x] 16.9	Exercícios:	mais	buscas	com	PHP 263
+- [x] 16.10	Exercícios	opcionais 265
 
 CAPÍTULO DEZESSETE 
 
-- [ ] 17	Apêndice	-	Subindo	sua	aplicação	no	cloud
-- [ ] 17.1	Como	escolher	um	provedor 266
-- [ ] 17.2	O	Jelastic	Cloud	Locaweb 267
-- [ ] 17.3	Criando	a	conta 267
-- [ ] 17.4	Importando	dados	no	MySQL 268
-- [ ] 17.5	Preparando	o	projeto 269
-- [ ] 17.6	Enviando	o	projeto	e	inicializando	servidor 270
+- [x] 17	Apêndice	-	Subindo	sua	aplicação	no	cloud
+- [x] 17.1	Como	escolher	um	provedor 266
+- [x] 17.2	O	Jelastic	Cloud	Locaweb 267
+- [x] 17.3	Criando	a	conta 267
+- [x] 17.4	Importando	dados	no	MySQL 268
+- [x] 17.5	Preparando	o	projeto 269
+- [x] 17.6	Enviando	o	projeto	e	inicializando	servidor 270
 
 CAPÍTULO DEZOITO 
 
-- [ ] 18	Apêndice	-	Mais	integrações	com	serviços	Web
-- [ ] 18.1	Botão	de	curtir	do	Facebook 272
-- [ ] 18.2	Exercícios:	Facebook 273
-- [ ] 18.3	Para	saber	mais:	Twitter 274
-- [ ] 18.4	Para	saber	mais:	Google+ 274
-- [ ] 18.5	Exercícios	opcionais:	Twitter	e	Google+ 275
-
-- Considerações finais. 
+- [x] 18	Apêndice	-	Mais	integrações	com	serviços	Web
+- [x] 18.1	Botão	de	curtir	do	Facebook 272
+- [x] 18.2	Exercícios:	Facebook 273
+- [x] 18.3	Para	saber	mais:	Twitter 274
+- [x] 18.4	Para	saber	mais:	Google+ 274
+- [x] 18.5	Exercícios	opcionais:	Twitter	e	Google+ 275
 
 #### Comentários durante o desenvolvimento do projeto
 
