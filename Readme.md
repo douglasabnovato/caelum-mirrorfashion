@@ -215,12 +215,12 @@ CAPÍTULO DOZE
 - [x] 12.2	Princípios	de	programação	distribuída 221
 - [x] 12.3	Ferramentas	de	diagnóstico	-	YSlow	e	PageSpeed 222
 - [x] 12.4	Compressão	e	minificação	de	CSS	e	JavaScript 223
-- [ ] 12.5	Compressão	de	imagens 224
-- [ ] 12.6	Diminuir	o	número	de	requests 226
-- [ ] 12.7	Juntar	arquivos	CSS	e	JS 227
-- [ ] 12.8	Image	Sprites 228
-- [ ] 12.9	Para	saber	mais 231
-- [ ] 12.10	Exercícios:	otimizações	Web 231
+- [x] 12.5	Compressão	de	imagens 224
+- [x] 12.6	Diminuir	o	número	de	requests 226
+- [x] 12.7	Juntar	arquivos	CSS	e	JS 227
+- [x] 12.8	Image	Sprites 228
+- [x] 12.9	Para	saber	mais 231
+- [x] 12.10	Exercícios:	otimizações	Web 231
 
 CAPÍTULO TREZE 
 
